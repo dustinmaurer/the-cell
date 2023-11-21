@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:01,600
+Summary
+
+2
+00:00:01,600 --> 00:00:45,650
+Eukaryotic cells, by definition, keep their DNA in a separate membrane-enclosed compartment, the nucleus. They have, in addition, a cytoskeleton for support and movement, elaborate intracellular compartments for digestion and secretion, the capacity (in many species) to engulf other cells, and a metabolism that depends on the oxidation of organic molecules by mitochondria. These properties suggest that eukaryotes may have originated as predators on other cells. Mitochondria—and, in plants, chloroplasts—contain their own genetic material, and they evidently evolved from bacteria that were taken up into the cytoplasm of ancient cells and survived as symbionts.
+
+3
+00:00:45,650 --> 00:01:37,550
+Eukaryotic cells typically have 3–30 times as many genes as prokaryotes, and often thousands of times more noncoding DNA. The noncoding DNA allows for great complexity in the regulation of gene expression, as required for the construction of complex multicellular organisms. Many eukaryotes are, however, unicellular—among them the yeast Saccharomyces cerevisiae, which serves as a simple model organism for eukaryotic cell biology, revealing the molecular basis of many fundamental processes that have been strikingly conserved during a billion years of evolution. A small number of other organisms have also been chosen for intensive study: a worm, a fly, a fish, and the mouse serve as “model organisms” for multicellular animals; and a small milkweed serves as a model for plants.
+
+4
+00:01:37,550 --> 00:02:21,025
+Powerful new technologies such as genome sequencing are producing striking advances in our knowledge of human beings, and they are helping to advance our understanding of human health and disease. But living systems are incredibly complex, and mammalian genomes contain multiple closely related homologs of most genes. This genetic redundancy has allowed diversification and specialization of genes for new purposes, but it also makes biological mechanisms harder to decipher. For this reason, simpler model organisms have played a key part in revealing universal genetic mechanisms of animal development, and research using these systems remains critical for driving scientific and medical advances.
+

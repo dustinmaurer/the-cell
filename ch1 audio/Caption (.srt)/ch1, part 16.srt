@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:41,500
+Archaea are often found inhabiting environments that we humans avoid, such as bogs, sewage treatment plants, ocean depths, salt brines, and hot acid springs, although they are also widespread in less extreme and more homely environments, from soils and lakes to the stomachs of cattle. In outward appearance they are not easily distinguished from bacteria. At a molecular level, archaea seem to resemble eukaryotes more closely in their machinery for handling genetic information (replication, transcription, and translation), but bacteria more closely in their apparatus for metabolism and energy conversion. We discuss below how this might be explained.
+
+2
+00:00:41,500 --> 00:00:46,050
+Some Genes Evolve Rapidly; Others Are Highly Conserved
+
+3
+00:00:46,050 --> 00:02:08,187
+Both in the storage and in the copying of genetic information, random accidents and errors occur, altering the nucleotide sequence—that is, creating mutations. Therefore, when a cell divides, its two daughters are often not quite identical to one another or to their parent. On rare occasions, the error may represent a change for the better; more probably, it will cause no significant difference in the cell’s prospects. But in many cases, the error will cause serious damage—for example, by disrupting the coding sequence for a key protein. Changes due to mistakes of the first type will tend to be perpetuated, because the altered cell has an increased likelihood of reproducing itself. Changes due to mistakes of the second type—selectively neutral changes—may be perpetuated or not: in the competition for limited resources, it is a matter of chance whether the altered cell or its cousins will succeed. But changes that cause serious damage lead nowhere: the cell that suffers them dies, leaving no progeny. Through endless repetition of this cycle of error and trial—of mutation and natural selection—organisms evolve: their genetic specifications change, giving them new ways to exploit the environment more effectively, to survive in competition with others, and to reproduce successfully.
+
+4
+00:02:08,187 --> 00:02:53,187
+Some parts of the genome will change more easily than others in the course of evolution. A segment of DNA that does not code for protein and has no significant regulatory role is free to change at a rate limited only by the frequency of random errors. In contrast, a gene that codes for a highly optimized essential protein or RNA molecule cannot alter so easily: when mistakes occur, the faulty cells are almost always eliminated. Genes of this latter sort are therefore highly conserved. Through 3.5 billion years or more of evolutionary history, many features of the genome have changed beyond all recognition, but the most highly conserved genes remain perfectly recognizable in all living species.
+

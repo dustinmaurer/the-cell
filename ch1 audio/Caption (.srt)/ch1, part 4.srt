@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:47,725
+The bonds between the base pairs are weak compared with the sugar-phosphate links, and this allows the two DNA strands to be pulled apart without breakage of their backbones. Each strand then can serve as a template, in the way just described, for the synthesis of a fresh DNA strand complementary to itself—a fresh copy, that is, of the hereditary information (Figure 1–3). In different types of cells, this process of DNA replication occurs at different rates, with different controls to start it or stop it, and different auxiliary molecules to help it along. But the basics are universal: DNA is the information store for heredity, and templated polymerization is the way in which this information is copied throughout the living world.
+
+2
+00:00:47,725 --> 00:00:54,662
+All Cells Transcribe Portions of Their Hereditary Information into the Same Intermediary Form: RNA
+
+3
+00:00:54,662 --> 00:01:48,650
+To carry out its information-bearing function, DNA must do more than copy itself. It must also express its information, by letting the information guide the synthesis of other molecules in the cell. This expression occurs by a mechanism that is the same in all living organisms, leading first and foremost to the production of two other key classes of polymers: RNAs and proteins. The process (discussed in detail in Chapters 6 and 7) begins with a templated polymerization called transcription, in which segments of the DNA sequence are used as templates for the synthesis of shorter molecules of the closely related polymer ribonucleic acid, or RNA. Later, in the more complex process of translation, many of these RNA molecules direct the synthesis of polymers of a radically different chemical class—the proteins (Figure 1–4).
+
+4
+00:01:48,650 --> 00:02:45,762
+In RNA, the backbone is formed of a slightly different sugar from that of DNA—ribose instead of deoxyribose—and one of the four bases is slightly different—uracil (U) in place of thymine (T). But the other three bases—A, C, and G—are the same, and all four bases pair with their complementary counterparts in DNA—the A, U, C, and G of RNA with the T, A, G, and C of DNA. During transcription, the RNA monomers are lined up and selected for polymerization on a template strand of DNA, just as DNA monomers are selected during replication. The outcome is a polymer molecule whose sequence of nucleotides faithfully represents a portion of the cell’s genetic information, even though it is written in a slightly different alphabet—consisting of RNA monomers instead of DNA monomers.
+
+5
+00:02:45,762 --> 00:03:21,837
+The same segment of DNA can be used repeatedly to guide the synthesis of many identical RNA molecules. Thus, whereas the cell’s archive of genetic information in the form of DNA is fixed and sacrosanct, these RNA transcripts are mass-produced and disposable (Figure 1–5). As we shall see, these transcripts function as intermediates in the transfer of genetic information. Most notably, they serve as messenger RNA (mRNA) molecules that guide the synthesis of proteins according to the genetic instructions stored in the DNA.
+

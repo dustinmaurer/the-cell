@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:41,837
+Thus, polynucleotides specify the amino acid sequences of proteins. Proteins, in turn, catalyze many chemical reactions, including those by which new DNA molecules are synthesized. From the most fundamental point of view, a living cell is a self-replicating collection of catalysts that takes in food, processes this food to derive both the building blocks and energy needed to make more catalysts, and discards the materials left over as waste (Figure 1–8A). A feedback loop that connects proteins and polynucleotides forms the basis for this autocatalytic, selfreproducing behavior of living organisms (Figure 1–8B).
+
+2
+00:00:41,837 --> 00:00:46,387
+All Cells Translate RNA into Protein in the Same Way
+
+3
+00:00:46,387 --> 00:01:43,212
+How the information in DNA specifies the production of proteins was a complete mystery in the 1950s when the double-stranded structure of DNA was first revealed as the basis of heredity. But in the intervening years, scientists have discovered the elegant mechanisms involved. The translation of genetic information from the 4-letter alphabet of polynucleotides into the 20-letter alphabet of proteins is a complex process. The rules of this translation seem in some respects neat and rational but in other respects strangely arbitrary, given that they are (with minor exceptions) identical in all living things. These arbitrary features, it is thought, reflect frozen accidents in the early history of life. They stem from the chance properties of the earliest organisms that were passed on by heredity and have become so deeply embedded in the constitution of all living cells that they cannot be changed without disastrous effects.
+
+4
+00:01:43,212 --> 00:03:12,262
+It turns out that the information in the sequence of a messenger RNA molecule is read out in groups of three nucleotides at a time: each triplet of nucleotides, or codon, specifies (codes for) a single amino acid in a corresponding protein. Since the number of distinct triplets that can be formed from four nucleotides is 4 to the third, there are 64 possible codons, all of which occur in nature. However, there are only 20 naturally occurring amino acids. That means there are necessarily many cases in which several codons correspond to the same amino acid. This genetic code is read out by a special class of small RNA molecules, the transfer RNAs (tRNAs). Each type of tRNA becomes attached at one end to a specific amino acid, and displays at its other end a specific sequence of three nucleotides—an anticodon—that enables it to recognize, through base-pairing, a particular codon or subset of codons in mRNA. The intricate chemistry that enables these tRNAs to translate a specific sequence of A, C, G, and U nucleotides in an mRNA molecule into a specific sequence of amino acids in a protein molecule occurs on the ribosome, a large multimolecular machine composed of both protein and ribosomal RNA. All of these processes are described in detail in Chapter 6.
+

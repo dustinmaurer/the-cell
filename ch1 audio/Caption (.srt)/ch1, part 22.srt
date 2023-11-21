@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:03,350
+Mutations Reveal the Functions of Genes
+
+2
+00:00:03,350 --> 00:00:32,475
+Without additional information, no amount of gazing at genome sequences will reveal the functions of genes. We may recognize that gene B is like gene A, but how do we discover the function of gene A in the first place? And even if we know the function of gene A, how do we test whether the function of gene B is truly the same as the sequence similarity suggests? How do we connect the world of abstract genetic information with the world of real living organisms?
+
+3
+00:00:32,475 --> 00:01:27,650
+The analysis of gene functions depends on two complementary approaches: genetics and biochemistry. Genetics starts with the study of mutants: we either find or make an organism in which a gene is altered, and then examine the effects on the organism’s structure and performance (Figure 1–23). Biochemistry more directly examines the functions of molecules: here we extract molecules from an organism and then study their chemical activities. By combining genetics and biochemistry, it is possible to find those molecules whose production depends on a given gene. At the same time, careful studies of the performance of the mutant organism show us what role those molecules have in the operation of the organism as a whole. Thus, genetics and biochemistry used in combination with cell biology provide the best way to relate genes and molecules to the structure and function of an organism.
+
+4
+00:01:27,650 --> 00:02:37,737
+In recent years, DNA sequence information and the powerful tools of molecular biology have accelerated progress. From sequence comparisons, we can often identify particular subregions within a gene that have been preserved nearly unchanged over the course of evolution. These conserved subregions are likely to be the most important parts of the gene in terms of function. We can test their individual contributions to the activity of the gene product by creating in the laboratory mutations of specific sites within the gene, or by constructing artificial hybrid genes that combine part of one gene with part of another. Organisms can be engineered to make either the RNA or the protein specified by the gene in large quantities to facilitate biochemical analysis. Specialists in molecular structure can determine the three-dimensional conformation of the gene product, revealing the exact position of every atom in it. Biochemists can determine how each of the parts of the genetically specified molecule contributes to its chemical behavior. Cell biologists can analyze the behavior of cells that are engineered to express a mutant version of the gene.
+

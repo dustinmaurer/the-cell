@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:06,512
+The Tree of Life Has Three Primary Branches: Bacteria, Archaea, and Eukaryotes
+
+2
+00:00:06,512 --> 00:00:52,000
+The classification of living things has traditionally depended on comparisons of their outward appearances: we can see that a fish has eyes, jaws, backbone, brain, and so on, just as we do, and that a worm does not; that a rosebush is cousin to an apple tree, but is less similar to a grass. As Darwin showed, we can readily interpret such close family resemblances in terms of evolution from common ancestors, and we can find the remains of many of these ancestors preserved in the fossil record. In this way, it has been possible to begin to draw a family tree of living organisms, showing the various lines of descent, as well as branch points in the history, where the ancestors of one group of species became different from those of another.
+
+3
+00:00:52,000 --> 00:01:31,700
+When the disparities between organisms become very great, however, these methods begin to fail. How do we decide whether a fungus is closer kin to a plant or to an animal? When it comes to prokaryotes, the task becomes harder still: one microscopic rod or sphere looks much like another. Microbiologists have therefore sought to classify prokaryotes in terms of their biochemistry and nutritional requirements. But this approach also has its pitfalls. Amid the bewildering variety of biochemical behaviors, it is difficult to know which differences truly reflect differences of evolutionary history.
+
+4
+00:01:31,700 --> 00:02:16,262
+Genome analysis has now given us a simpler, more direct, and much more powerful way to determine evolutionary relationships. The complete DNA sequence of an organism defines its nature with almost perfect precision and in exhaustive detail. Moreover, this specification is in a digital form—a string of letters—that can be entered straightforwardly into a computer and compared with the corresponding information for any other living thing. Because DNA is subject to random changes that accumulate over long periods of time (as we shall see shortly), the number of differences between the DNA sequences of two organisms can provide a direct, objective, quantitative indication of the evolutionary distance between them.
+
+5
+00:02:16,262 --> 00:03:07,862
+This approach has shown that the organisms that were traditionally classed together as “bacteria” can be as widely divergent in their evolutionary origins as is any prokaryote from any eukaryote. It is now clear that the prokaryotes comprise two distinct groups that diverged early in the history of life on Earth, before the eukaryotes diverged as a separate group. The two groups of prokaryotes are called the bacteria (or eubacteria) and the archaea (or archaebacteria). Detailed genome analyses have recently revealed that the first eukayotic cell formed after a particular type of ancient archaeal cell engulfed an ancient bacterium (see Figure 12–3). Thus, the living world today is considered to consist of three major divisions or domains: bacteria, archaea, and eukaryotes (Figure 1–17).
+

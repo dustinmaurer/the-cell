@@ -1,0 +1,8 @@
+Animations and Videos
+There are 174 movies, covering a wide range of cell biology topics, which review key concepts in the book and illuminate subcellular processes. The movies are correlated to each chapter and callouts are highlighted in color.
+Cell Explorer Slides
+This application teaches cell morphology through interactive micrographs that highlight important cellular structures.
+Flashcards
+Each chapter contains a set of flashcards, built into the website, that allow students to review key terms from the text.
+Glossary
+The complete glossary from the book is available on the website and can be searched and browsed.

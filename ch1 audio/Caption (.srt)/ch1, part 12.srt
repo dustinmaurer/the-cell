@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:04,225
+Cells Can Be Powered by a Variety of Free-Energy Sources
+
+2
+00:00:04,225 --> 00:00:59,737
+Living organisms obtain their free energy in different ways. Some, such as animals, fungi, and the many different bacteria that live in the human gut, get it by feeding on other living things or the organic chemicals they produce; such organisms are called organotrophic (from the Greek word trophe, meaning “food”). Others derive their energy directly from the nonliving world. These primary energy converters fall into two classes: those that harvest the energy of sunlight, and those that capture their energy from energy-rich systems of inorganic chemicals in the environment (chemical systems that are far from chemical equilibrium). Organisms of the former class are called phototrophic (feeding on sunlight); those of the latter are called lithotrophic (feeding on rock). Organotrophic organisms could not exist without these primary energy converters, which are the most plentiful form of life.
+
+3
+00:00:59,737 --> 00:01:21,125
+Phototrophic organisms include many types of bacteria, as well as algae and plants, on which we—and virtually all the living things that we ordinarily see around us—depend. Phototrophic organisms have changed the whole chemistry of our environment: the oxygen in the Earth’s atmosphere is a by-product of their biosynthetic activities.
+
+4
+00:01:21,125 --> 00:01:43,712
+Lithotrophic organisms are not such an obvious feature of our world, because they are microscopic and mostly live in habitats that humans do not frequent—deep in the ocean, buried in the Earth’s crust, or in various other inhospitable environments. But they are a major part of the living world, and they are especially important in any consideration of the history of life on Earth.
+
+5
+00:01:43,712 --> 00:02:15,275
+Some lithotrophs get energy from aerobic reactions, which use molecular oxygen from the environment; since atmospheric O2 is ultimately the product of living organisms, these aerobic lithotrophs are, in a sense, feeding on the products of past life. There are, however, other lithotrophs that live anaerobically, in places where little or no molecular oxygen is present. These are circumstances similar to those that existed in the early days of life on Earth, before oxygen had accumulated.
+

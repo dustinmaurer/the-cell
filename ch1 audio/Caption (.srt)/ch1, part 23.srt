@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:45,950
+There is, however, no one simple recipe for discovering a gene’s function, and no simple standard universal format for describing it. We may discover, for example, that the product of a given gene catalyzes a certain chemical reaction, and yet have no idea how or why that reaction is important to the organism. The functional characterization of each new family of gene products, unlike the description of the gene sequences, presents a fresh challenge to the biologist’s ingenuity. Moreover, we will never fully understand the function of a gene until we learn its role in the life of the organism as a whole. To make ultimate sense of gene functions, therefore, we have to study whole organisms, not just molecules or cells.
+
+2
+00:00:45,950 --> 00:00:50,237
+Molecular Biology Began with a Spotlight on E coli
+
+3
+00:00:50,237 --> 00:01:15,612
+Because living organisms are so complex, the more we learn about any particular species, the more attractive it becomes as an object for further study. Each discovery raises new questions and provides new tools with which to tackle general questions in the context of the chosen organism. For this reason, large communities of biologists have become dedicated to studying different aspects of the same model organism.
+
+4
+00:01:15,612 --> 00:02:28,412
+In the early days of molecular biology, the spotlight focused intensely on just one species: the Escherichia coli, or E coli, bacterium (see Figures 1–13 and 1–14). This small, rod-shaped bacterial cell normally lives in the gut of humans and other vertebrates, but it can be grown easily in a simple nutrient broth in a culture bottle. It adapts to variable chemical conditions and reproduces rapidly, and it can evolve by mutation and selection at a remarkable speed. As with other bacteria, different strains of E coli, though classified as members of a single species, differ genetically to a much greater degree than do different varieties of a sexually reproducing organism such as a plant or animal. One E coli strain may possess many hundreds of genes that are absent from another, and the two strains could have as little as 50% of their genes in common. The standard laboratory strain E coli K-12 has a genome of approximately 4.6 million nucleotide pairs, contained in a single circular molecule of DNA that codes for about 4300 different kinds of proteins (Figure 1–24).
+
+5
+00:02:28,412 --> 00:02:59,475
+In molecular terms, we know more about E coli than about any other living organism. Most of our understanding of the fundamental mechanisms of life—for example, how cells replicate their DNA, or how they decode the instructions represented in the DNA to direct the synthesis of specific proteins—initially came from studies of E coli. The basic genetic mechanisms have turned out to be highly conserved throughout evolution: these mechanisms are essentially the same in our own cells as in E coli.
+

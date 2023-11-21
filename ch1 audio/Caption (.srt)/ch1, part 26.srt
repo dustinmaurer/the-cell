@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:04,087
+Modern Eukaryotic Cells Evolved from a Symbiosis
+
+2
+00:00:04,087 --> 00:01:26,650
+A predatory way of life helps to explain another feature of eukaryotic cells. All such cells contain (or at one time did contain) mitochondria (Figure 1–28). These small bodies in the cytoplasm, enclosed by a double layer of membrane, take up oxygen and harness energy from the oxidation of food molecules—such as sugars—to produce most of the ATP that powers the cell’s activities. Mitochondria are similar in size to small bacteria, and, like bacteria, they have their own genome in the form of a circular DNA molecule, their own ribosomes that differ from those elsewhere in the eukaryotic cell, and their own transfer RNAs. It is now generally accepted that mitochondria originated from free-living oxygen-metabolizing (aerobic) bacteria that were engulfed by an ancestral cell that could otherwise make no such use of oxygen (that is, was anaerobic). Escaping digestion, these bacteria evolved in symbiosis with the engulfing cell and its progeny, receiving shelter and nourishment in return for the power generation they performed for their hosts. This partnership between a primitive anaerobic predator cell and an aerobic bacterial cell is thought to have been established about 1.5 billion years ago, when the Earth’s atmosphere first became rich in oxygen.
+
+3
+00:01:26,650 --> 00:01:46,937
+As indicated in Figure 1–29, recent genomic analyses suggest that the first eukaryotic cells formed after an archaeal cell engulfed an aerobic bacterium. This would explain why all eukaryotic cells today, including those that live as strict anaerobes show clear evidence that they once contained mitochondria.
+
+4
+00:01:46,937 --> 00:02:26,475
+Many eukaryotic cells—specifically, those of plants and algae—also contain another class of small membrane-enclosed organelles somewhat similar to mitochondria—the chloroplasts (Figure 1–30). Chloroplasts perform photosynthesis, using the energy of sunlight to synthesize carbohydrates from atmospheric carbon dioxide and water, and deliver the products to the host cell as food. Like mitochondria, chloroplasts have their own genome. They almost certainly originated as symbiotic photosynthetic bacteria, acquired by eukaryotic cells that already possessed mitochondria (Figure 1–31).
+
+5
+00:02:26,475 --> 00:03:02,600
+A eukaryotic cell equipped with chloroplasts has no need to chase after other cells as prey; it is nourished by the captive chloroplasts it has inherited from its ancestors. Correspondingly, plant cells, although they possess the cytoskeletal equipment for movement, have lost the ability to change shape rapidly and to engulf other cells by phagocytosis. Instead, they create around themselves a tough, protective cell wall. If the first eukaryotic cells were predators on other organisms, we can view plant cells as cells that have made the transition from hunting to farming.
+

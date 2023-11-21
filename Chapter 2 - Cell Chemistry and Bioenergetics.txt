@@ -1,0 +1,571 @@
+Chapter 2
+
+Cell Chemistry and Bioenergetics
+
+It is at first sight difficult to accept the idea that living creatures are merely chemical systems. Their incredible diversity of form, their seemingly purposeful behavior, and their ability to grow and reproduce all seem to set them apart from the world of solids, liquids, and gases that chemistry normally describes. Indeed, until the nineteenth century animals were believed to contain a Vital Force—an “animus”—that was responsible for their distinctive properties.
+
+We now know that there is nothing in living organisms that disobeys chemical or physical laws. However, the chemistry of life is indeed special. First, it is based overwhelmingly on carbon compounds, the study of which is known as organic chemistry. Second, cells are 70% water, and life depends largely on chemical reactions that take place in aqueous solution. Third, and most important, cell chemistry is enormously complex: even the simplest cell is vastly more complicated in its chemistry than any other chemical system known. In particular, although cells contain a variety of small carbon-containing molecules, most of the carbon atoms present are incorporated into enormous polymeric molecules—chains of chemical subunits linked end-to-end. It is the unique properties of these macromolecules that enable cells and organisms to grow and reproduce—as well as to do all the other things that are characteristic of life.
+
+The Chemical Components of a Cell
+
+Living organisms are made of only a small selection of the 92 naturally occurring elements, four of which—carbon (C), hydrogen (H), nitrogen (N), and oxygen (O)—make up 96.5% of an organism’s weight (Figure 2–1). The atoms of these elements are linked together by covalent bonds to form molecules (see Panel 2–1, pp. 90–91). Because covalent bonds are typically 100 times stronger than the thermal energies within a cell, they resist being pulled apart by thermal motions, and they are normally broken only during specific chemical reactions with other atoms and molecules. Two different molecules can be held together by noncovalent bonds, which are much weaker (Figure 2–2). We shall see later that noncovalent bonds are important in the many situations where molecules have to associate and dissociate readily to carry out their biological functions.
+
+Water Is Held Together by Hydrogen Bonds
+
+The reactions inside a cell occur in an aqueous environment. Life on Earth began in the ocean, and the conditions in that primeval environment put a permanent stamp on the chemistry of living things. Life therefore hinges on the chemical properties of water, which are reviewed in Panel 2–2, pp. 92–93.
+
+###############
+ part 1
+###############
+
+In each water molecule (H2O) the two H atoms are linked to the O atom by covalent bonds. The two bonds are highly polar because the O is strongly attractive for electrons, whereas the H is only weakly attractive. Consequently, there is an unequal distribution of electrons in a water molecule, with a preponderance of positive charge on the two H atoms and of negative charge on the O. When a positively charged region of one water molecule (that is, one of its H atoms) approaches a negatively charged region (that is, the O) of a second water molecule, the electrical attraction between them can result in a hydrogen bond. These bonds are much weaker than covalent bonds and are easily broken by the random thermal motions that reflect the heat energy of the molecules. Thus, each bond lasts only a short time. But the combined effect of many weak bonds can be profound. For example, each water molecule can form hydrogen bonds through its two H atoms to two other water molecules, producing a network in which hydrogen bonds are being continually broken and formed. It is only because of the hydrogen bonds that link water molecules together that water is a liquid at room temperature—with a high boiling point and high surface tension—rather than a gas.
+
+Molecules, such as alcohols, that contain polar bonds and that can form hydrogen bonds with water dissolve readily in water. Molecules carrying charges (ions) likewise interact favorably with water. Such molecules are termed hydrophilic, meaning that they are water-loving. Many of the molecules in the aqueous environment of a cell necessarily fall into this category, including sugars, DNA, RNA, and most proteins. Hydrophobic (water-hating) molecules, by contrast, are uncharged and form few or no hydrogen bonds, and so do not dissolve in water. Hydrocarbons are an important example. In these molecules all of the H atoms are covalently linked to C atoms by a largely nonpolar bond; thus they cannot form effective hydrogen bonds to other molecules (see Panel 2–1, p. 90). This makes the hydrocarbon as a whole hydrophobic—a property that is exploited in cells, whose membranes are constructed from molecules that have long hydrocarbon tails, as we see in Chapter 10.
+
+###############
+ part 2
+###############
+
+Four Types of Noncovalent Attractions Help Bring Molecules Together in Cells
+
+Much of biology depends on the specific binding of different molecules caused by three types of noncovalent bonds: electrostatic attractions (ionic bonds), hydrogen bonds, and van der Waals attractions; and on a fourth factor that can push molecules together: the hydrophobic force. The properties of the four types of noncovalent attractions are presented in Panel 2–3 (pp. 94–95). Although each individual noncovalent attraction would be much too weak to be effective in the face of thermal motions, their energies can sum to create a strong force between two separate molecules. Thus sets of noncovalent attractions often allow the complementary surfaces of two macromolecules to hold those two macromolecules together (Figure 2–3).
+
+Table 2–1 compares noncovalent bond strengths to that of a typical covalent bond, both in the presence and in the absence of water. Note that, by forming competing interactions with the involved molecules, water greatly reduces the strength of both electrostatic attractions and hydrogen bonds.
+
+The structure of a typical hydrogen bond is illustrated in Figure 2–4. This bond represents a special form of polar interaction in which an electropositive hydrogen atom is shared by two electronegative atoms. Its hydrogen can be viewed as a proton that has partially dissociated from a donor atom, allowing it to be shared by a second acceptor atom. Unlike a typical electrostatic interaction, this bond is highly directional—being strongest when a straight line can be drawn between all three of the involved atoms.
+
+The fourth effect that often brings molecules together in water is not, strictly speaking, a bond at all. However, a very important hydrophobic force is caused by a pushing of nonpolar surfaces out of the hydrogen-bonded water network, where they would otherwise physically interfere with the highly favorable interactions between water molecules. Bringing any two nonpolar surfaces together reduces their contact with water; in this sense, the force is nonspecific. Nevertheless, we shall see in Chapter 3 that hydrophobic forces are central to the proper folding of protein molecules.
+
+###############
+ part 3
+###############
+
+Some Polar Molecules Form Acids and Bases in Water
+
+One of the simplest kinds of chemical reaction, and one that has profound significance in cells, takes place when a molecule containing a highly polar covalent bond between a hydrogen and another atom dissolves in water. The hydrogen atom in such a molecule has given up its electron almost entirely to the companion atom, and so exists as an almost naked positively charged hydrogen nucleus—in other words, a proton (H+). When the polar molecule becomes surrounded by water molecules, the proton will be attracted to the partial negative charge on the O atom of an adjacent water molecule. This proton can easily dissociate from its original partner and associate instead with the oxygen atom of the water molecule, generating a hydronium ion (H3O+) (Figure 2–5A). The reverse reaction also takes place very readily, so in the aqueous solution protons are constantly flitting to and fro between one molecule and another.
+
+Substances that release protons when they dissolve in water, thus forming H3O+, are termed acids. The higher the concentration of H3O+, the more acidic the solution. H3O+ is present even in pure water, at a concentration of 10–7 M, as a result of the movement of protons from one water molecule to another (Figure 2–5B). By convention, the H3O+ concentration is usually referred to as the H+ concentration, even though most protons in an aqueous solution are present as H3O+. To avoid the use of unwieldy numbers, the concentration of H3O+ is expressed using a logarithmic scale called the pH scale. Pure water has a pH of 7.0 and is said to be neutral—that is, neither acidic (pH <7) nor basic (pH >7).
+
+Acids are characterized as being strong or weak, depending on how readily they give up their protons to water. Strong acids, such as hydrochloric acid (HCl), lose their protons quickly. Acetic acid, on the other hand, is a weak acid because it holds on to its proton more tightly when dissolved in water. Many of the acids important in the cell—such as molecules containing a carboxyl (COOH) group—are weak acids (see Panel 2–2, pp. 92–93).
+
+Because the proton of a hydronium ion can be passed readily to many types of molecules in cells, altering their character, the concentration of H3O+ inside a cell (the acidity) must be closely regulated. Acids—especially weak acids—will give up their protons more readily if the concentration of H3O+ in solution is low and will tend to receive them back if the concentration in solution is high.
+
+###############
+ part 4
+###############
+
+The opposite of an acid is a base. Any molecule capable of accepting a proton from a water molecule is called a base. Sodium hydroxide (NaOH) is basic (the term alkaline is also used) because it dissociates readily in aqueous solution to form Na+ ions and OH– ions. Because of this property, NaOH is called a strong base. More important in living cells, however, are the weak bases—those that have a weak tendency to reversibly accept a proton from water. Many biologically important molecules contain an amino (NH2) group. This group is a weak base that can generate OH– by taking a proton from water: –NH2 + H2O →–NH3+ + OH– (see Panel 2–2, pp. 92–93).
+
+Because an OH– ion combines with a H3O+ ion to form two water molecules, an increase in the OH– concentration forces a decrease in the concentration of H3O+, and vice versa. A pure solution of water contains an equal concentration (10–7 M) of both ions, rendering it neutral. The interior of a cell is also kept close to neutrality by the presence of buffers: weak acids and bases that can release or take up protons near pH 7, keeping the environment of the cell relatively constant under a variety of conditions.
+
+A Cell Is Formed from Carbon Compounds
+
+Having reviewed the ways atoms combine into molecules and how these molecules behave in an aqueous environment, we now examine the main classes of small molecules found in cells. We shall see that a few categories of molecules, formed from a handful of different elements, give rise to all the extraordinary richness of form and behavior shown by living things.
+
+If we disregard water and inorganic ions such as potassium, nearly all the molecules in a cell are based on carbon. Carbon is outstanding among all the elements in its ability to form large molecules; silicon is a poor second. Because carbon is small and has four electrons and four vacancies in its outermost shell, a carbon atom can form four covalent bonds with other atoms. Most important, one carbon atom can join to other carbon atoms through highly stable covalent C–C bonds to form chains and rings and hence generate large and complex molecules with no obvious upper limit to their size. The carbon compounds made by cells are called organic molecules. In contrast, all other molecules, including water, are said to be inorganic.
+
+Certain combinations of atoms, such as the methyl (–CH3), hydroxyl (–OH), carboxyl (–COOH), carbonyl (–C=O), phosphate (–PO3 2–), sulfhydryl (–SH), and amino (–NH2) groups, occur repeatedly in the molecules made by cells. Each such chemical group has distinct chemical and physical properties that influence the behavior of the molecule in which the group occurs. The most common chemical groups and some of their properties are summarized in Panel 2–1, pp. 90–91.
+
+###############
+ part 5
+###############
+
+Cells Contain Four Major Families of Small Organic Molecules
+
+The small organic molecules of the cell are carbon-based compounds that have molecular weights in the range of 100–1000 and contain up to 30 or so carbon atoms. They are usually found free in solution and have many different fates. Some are used as monomer subunits to construct giant polymeric macromolecules—proteins, nucleic acids, and large polysaccharides. Others act as energy sources and are broken down and transformed into other small molecules in a maze of intracellular metabolic pathways. Many small molecules have more than one role in the cell—for example, acting both as a potential subunit for a macromolecule and as an energy source. Small organic molecules are much less abundant than the organic macromolecules, accounting for only about one-tenth of the total mass of organic matter in a cell. As a rough guess, there may be a thousand different kinds of these small molecules in a typical cell.
+
+All organic molecules are synthesized from and are broken down into the same set of simple compounds. As a consequence, the compounds in a cell are chemically related and most can be classified into a few distinct families. Broadly speaking, cells contain four major families of small organic molecules: the sugars, the fatty acids, the nucleotides, and the amino acids (Figure 2–6). Although many compounds present in cells do not fit into these categories, these four families of small organic molecules, together with the macromolecules made by linking them into long chains, account for a large fraction of the cell mass.
+
+Amino acids and the proteins that they form will be the subject of Chapter 3. A summary of the structures and properties of the remaining three families—sugars, fatty acids, and nucleotides—is presented in Panels 2–4, 2–5, and 2–6, respectively (see pages 96–101).
+
+The Chemistry of Cells Is Dominated by Macromolecules with Remarkable Properties
+
+By weight, macromolecules are the most abundant carbon-containing molecules in a living cell (Figure 2–7). They are the principal building blocks from which a cell is constructed and also the components that confer the most distinctive properties of living things. The macromolecules in cells are polymers that are constructed by covalently linking small organic molecules (called monomers) into long chains (Figure 2–8). They have remarkable properties that could not have been predicted from their simple constituents.
+
+###############
+ part 6
+###############
+
+Proteins are abundant and spectacularly versatile, performing thousands of distinct functions in cells. Many proteins serve as enzymes, the catalysts that facilitate the many covalent bond-making and bond-breaking reactions that the cell needs. Enzymes catalyze all of the reactions whereby cells extract energy from food molecules, for example, and an enzyme called ribulose bisphosphate carboxylase helps to convert CO2 to sugars in photosynthetic organisms, producing most of the organic matter needed for life on Earth. Other proteins are used to build structural components, such as tubulin, a protein that self-assembles to make the cell’s long microtubules, or histones, proteins that compact the DNA in chromosomes. Yet other proteins act as molecular motors to produce force and movement, as for myosin in muscle. Proteins perform many other functions, and we shall examine the molecular basis for many of them later in this book.
+
+Although the chemical reactions for adding subunits to each polymer are different in detail for proteins, nucleic acids, and polysaccharides, they share important features. Each polymer grows by the addition of a monomer onto the end of a growing chain in a condensation reaction, in which one molecule of water is lost with each subunit added (Figure 2–9). The stepwise polymerization of monomers into a long chain is a simple way to manufacture a large, complex molecule, since the subunits are added by the same reaction performed over and over again by the same set of enzymes. Apart from some of the polysaccharides, most macromolecules are made from a limited set of monomers that are slightly different from one another—for example, the 20 different amino acids from which proteins are made. It is critical to life that the polymer chain is not assembled at random from these subunits; instead the subunits are added in a precise order, or sequence. The elaborate mechanisms that allow enzymes to accomplish this task are described in detail in Chapters 5 and 6.
+
+Noncovalent Bonds Specify Both the Precise Shape of a Macromolecule and Its Binding to Other Molecules 
+
+Most of the covalent bonds in a macromolecule allow rotation of the atoms they join, giving the polymer chain great flexibility. In principle, this allows a macromolecule to adopt an almost unlimited number of shapes, or conformations, as random thermal energy causes the polymer chain to writhe and rotate. However, the shapes of most biological macromolecules are highly constrained because of the many weak noncovalent bonds that form between different parts of the same molecule. If these noncovalent bonds are formed in sufficient numbers, the polymer chain can strongly prefer one particular conformation, determined by the linear sequence of monomers in its chain. Most protein molecules and many of the small RNA molecules found in cells fold tightly into a highly preferred conformation in this way (Figure 2–10).
+
+###############
+ part 7
+###############
+
+The four types of noncovalent interactions important in biological molecules were presented earlier, and they are discussed further in Panel 2–3 (pp. 94–95). In addition to folding biological macromolecules into unique shapes, they can also add up to create a strong attraction between two different molecules (see Figure 2–3). This form of molecular interaction provides for great specificity, inasmuch as the close multipoint contacts required for strong binding make it possible for a macromolecule to select out—through binding—just one of the many thousands of other types of molecules present inside a cell. Moreover, because the strength of the binding depends on the number of noncovalent bonds that are formed, interactions of almost any affinity are possible—allowing rapid dissociation where appropriate.
+
+As we discuss next, binding of this type underlies all biological catalysis, making it possible for proteins to function as enzymes. In addition, noncovalent interactions allow macromolecules to be used as building blocks for the formation of larger structures, thereby forming intricate machines with multiple moving parts that perform such complex tasks as DNA replication and protein synthesis (Figure 2–11).
+
+Summary
+
+Living organisms are autonomous, self-propagating chemical systems. They are formed from a distinctive and restricted set of small carbon-based molecules that are essentially the same for every living species. Each of these small molecules is composed of a small set of atoms linked to each other in a precise configuration through covalent bonds. The main categories are sugars, fatty acids, amino acids, and nucleotides. Sugars are a primary source of chemical energy for cells and can be incorporated into polysaccharides for energy storage. Fatty acids are also important for energy storage, but their most critical function is in the formation of cell membranes. Long chains of amino acids form the remarkably diverse and versatile macromolecules known as proteins. Nucleotides play a central part in energy transfer, while also serving as the subunits for the informational macromolecules, RNA and DNA.
+
+###############
+ part 8
+###############
+
+Most of the dry mass of a cell consists of macromolecules that have been produced as linear polymers of amino acids (proteins) or nucleotides (DNA and RNA), covalently linked to each other in an exact order. Most of the protein molecules and many of the RNAs fold into a unique conformation that is determined by their sequence of subunits. This folding process creates unique surfaces, and it depends on a large set of weak attractions produced by noncovalent forces between atoms. These forces are of four types: electrostatic attractions, hydrogen bonds, van der Waals attractions, and an interaction between nonpolar groups caused by their hydrophobic expulsion from water. The same set of weak forces governs the specific binding of other molecules to macromolecules, making possible the myriad associations between biological molecules that produce the structure and the chemistry of a cell.
+
+Catalysis and the Use of Energy by Cells
+
+One property of living things above all makes them seem almost miraculously different from nonliving matter: they create and maintain order, in a universe that is tending always to greater disorder (Figure 2–12). To create this order, the cells in a living organism must perform a never-ending stream of chemical reactions. In some of these reactions, small organic molecules—amino acids, sugars, nucleotides, and lipids—are being taken apart or modified to supply the many other small molecules that the cell requires. In other reactions, small molecules are being used to construct an enormously diverse range of proteins, nucleic acids, and other macromolecules that endow living systems with all of their most distinctive properties. Each cell can be viewed as a tiny chemical factory, performing many millions of reactions every second.
+
+Cell Metabolism Is Organized by Enzymes
+
+The chemical reactions that a cell carries out would normally occur only at much higher temperatures than those existing inside cells. For this reason, each reaction requires a specific boost in chemical reactivity. This requirement is crucial, because it allows the cell to control its chemistry. The control is exerted through specialized biological catalysts. These are almost always proteins called enzymes, although RNA catalysts also exist, called ribozymes. Each enzyme accelerates, or catalyzes, just one of the many possible kinds of reactions that a particular molecule might undergo. Enzyme-catalyzed reactions are connected in series, so that the product of one reaction becomes the starting material, or substrate, for the next (Figure 2–13). Long linear reaction pathways are in turn linked to one another, forming a maze of interconnected reactions that enable the cell to survive, grow, and reproduce.
+
+###############
+ part 9
+###############
+
+Two opposing streams of chemical reactions occur in cells: (1) the catabolic pathways break down foodstuffs into smaller molecules, thereby generating both a useful form of energy for the cell and some of the small molecules that the cell needs as building blocks, and (2) the anabolic, or biosynthetic, pathways use the small molecules and the energy harnessed by catabolism to drive the synthesis of the many other molecules that form the cell. Together these two sets of reactions constitute the metabolism of the cell (Figure 2–14).
+
+The details of cell metabolism form the traditional subject of biochemistry and most of them need not concern us here. But the general principles by which cells obtain energy from their environment and use it to create order are central to cell biology. We begin with a discussion of why a constant input of energy is needed to sustain all living things.
+
+Biological Order Is Made Possible by the Release of Heat Energy from Cells
+
+The universal tendency of things to become disordered is a fundamental law of physics—the second law of thermodynamics—which states that in the universe, or in any isolated system (a collection of matter that is completely isolated from the rest of the universe), the degree of disorder always increases. This law has such profound implications for life that we will restate it in several ways.
+
+For example, we can present the second law in terms of probability by stating that systems will change spontaneously toward those arrangements that have the greatest probability. If we consider a box of 100 coins all lying heads up, a series of accidents that disturbs the box will tend to move the arrangement toward a mixture of 50 heads and 50 tails. The reason is simple: there is a huge number of possible arrangements of the individual coins in the mixture that can achieve the 50–50 result, but only one possible arrangement that keeps all of the coins oriented heads up. Because the 50–50 mixture is therefore the most probable, we say that it is more “disordered.” For the same reason, it is a common experience that one’s living space will become increasingly disordered without intentional effort: the movement toward disorder is a spontaneous process, requiring a periodic effort to reverse it (Figure 2–15).
+
+The amount of disorder in a system can be quantified and expressed as the entropy of the system: the greater the disorder, the greater the entropy. Thus, another way to express the second law of thermodynamics is to say that systems will change spontaneously toward arrangements with greater entropy.
+
+###############
+ part 10
+###############
+
+Living cells—by surviving, growing, and forming complex organisms—are generating order and thus might appear to defy the second law of thermodynamics. How is this possible? The answer is that a cell is not an isolated system: it takes in energy from its environment in the form of food, or as photons from the sun (or even, as in some chemosynthetic bacteria, from inorganic molecules alone). It then uses this energy to generate order within itself. In the course of the chemical reactions that generate order, the cell converts part of the energy it uses into heat. The heat is discharged into the cell’s environment and disorders the surroundings. As a result, the total entropy—that of the cell plus its surroundings—increases, as demanded by the second law of thermodynamics.
+
+To understand the principles governing these energy conversions, think of a cell surrounded by a sea of matter representing the rest of the universe. As the cell lives and grows, it creates internal order. But it constantly releases heat energy as it synthesizes molecules and assembles them into cell structures. Heat is energy in its most disordered form—the random jostling of molecules. When the cell releases heat to the sea, it increases the intensity of molecular motions there (thermal motion)—thereby increasing the randomness, or disorder, of the sea. The second law of thermodynamics is satisfied because the increase in the amount of order inside the cell is always more than compensated for by an even greater decrease in order (increase in entropy) in the surrounding sea of matter (Figure 2–16).
+
+Where does the heat that the cell releases come from? Here we encounter another important law of thermodynamics. The first law of thermodynamics states that energy can be converted from one form to another, but that it cannot be created or destroyed. Figure 2–17 illustrates some interconversions between different forms of energy. The amount of energy in different forms will change as a result of the chemical reactions inside the cell, but the first law tells us that the total amount of energy must always be the same. For example, an animal cell takes in foodstuffs and converts some of the energy present in the chemical bonds between the atoms of these food molecules (chemical-bond energy) into the random thermal motion of molecules (heat energy).
+
+###############
+ part 11
+###############
+
+The cell cannot derive any benefit from the heat energy it releases unless the heat-generating reactions inside the cell are directly linked to the processes that generate molecular order. It is the tight coupling of heat production to an increase in order that distinguishes the metabolism of a cell from the wasteful burning of fuel in a fire. Later, we illustrate how this coupling occurs. For now, it is sufficient to recognize that a direct linkage of the “controlled burning” of food molecules to the generation of biological order is required for cells to create and maintain an island of order in a universe tending toward chaos.
+
+Cells Obtain Energy by the Oxidation of Organic Molecules
+
+All animal and plant cells are powered by energy stored in the chemical bonds of organic molecules, whether they are sugars that a plant has photosynthesized as food for itself or the mixture of large and small molecules that an animal has eaten. Organisms must extract this energy in usable form to live, grow, and reproduce. In both plants and animals, energy is extracted from food molecules by a process of gradual oxidation, or controlled burning.
+
+The Earth’s atmosphere contains a great deal of oxygen, and in the presence of oxygen the most energetically stable form of carbon is CO2 and that of hydrogen is H2O. A cell is therefore able to obtain energy from sugars or other organic molecules by allowing their carbon and hydrogen atoms to combine with oxygen to produce CO2 and H2O, respectively—a process called aerobic respiration.
+
+Photosynthesis (discussed in detail in Chapter 14) and respiration are complementary processes (Figure 2–18). This means that the transactions between plants and animals are not all one way. Plants, animals, and microorganisms have existed together on this planet for so long that many of them have become an essential part of the others’ environments. The oxygen released by photosynthesis is consumed in the combustion of organic molecules during aerobic respiration. And some of the CO2 molecules that are fixed today into organic molecules by photosynthesis in a green leaf were yesterday released into the atmosphere by the respiration of an animal—or by the respiration of a fungus or bacterium decomposing dead organic matter. We therefore see that carbon utilization forms a huge cycle that involves the biosphere (all of the living organisms on Earth) as a whole (Figure 2–19). Similarly, atoms of nitrogen, phosphorus, and sulfur move between the living and nonliving worlds in cycles that involve plants, animals, fungi, and bacteria.
+
+###############
+ part 12
+###############
+
+Oxidation and Reduction Involve Electron Transfers
+
+The cell does not oxidize organic molecules in one step, as occurs when organic material is burned in a fire. Through the use of enzyme catalysts, metabolism takes these molecules through a large number of reactions that only rarely involve the direct addition of oxygen. Before we consider some of these reactions and their purpose, we discuss what is meant by the process of oxidation.
+
+Oxidation refers to more than the addition of oxygen atoms; the term applies more generally to any reaction in which electrons are transferred from one atom to another. Oxidation in this sense refers to the removal of electrons, and reduction—the converse of oxidation—means the addition of electrons. Thus, Fe2+ is oxidized if it loses an electron to become Fe3+, and a chlorine atom is reduced if it gains an electron to become Cl–. Since the number of electrons is conserved (no loss or gain) in a chemical reaction, oxidation and reduction always occur simultaneously: that is, if one molecule gains an electron in a reaction (reduction), a second molecule loses the electron (oxidation). When a sugar molecule is oxidized to CO2 and H2O, for example, the O2 molecules involved in forming H2O gain electrons and thus are said to have been reduced.
+
+The terms “oxidation” and “reduction” apply even when there is only a partial shift of electrons between atoms linked by a covalent bond (Figure 2–20). When a carbon atom becomes covalently bonded to an atom with a strong affinity for electrons, such as oxygen, chlorine, or sulfur, for example, it gives up more than its equal share of electrons and forms a polar covalent bond. Because the positive charge of the carbon nucleus is now somewhat greater than the negative charge of its electrons, the atom acquires a partial positive charge and is said to be oxidized. Conversely, a carbon atom in a C–H linkage has slightly more than its share of electrons, and so it is said to be reduced.
+
+When a molecule in a cell picks up an electron (e–), it often picks up a proton (H+) at the same time (protons being freely available in water). The net effect in this case is to add a hydrogen atom to the molecule.
+A + e– + H+ → AH
+
+Even though a proton plus an electron is involved (instead of just an electron), such hydrogenation reactions are reductions, and the reverse, dehydrogenation reactions are oxidations. It is especially easy to tell whether an organic molecule is being oxidized or reduced: reduction is occurring if its number of C–H bonds increases, whereas oxidation is occurring if its number of C–H bonds decreases (see Figure 2–20B).
+
+Cells use enzymes to catalyze the oxidation of organic molecules in small steps, through a sequence of reactions that allows useful energy to be harvested. We now need to explain how enzymes work and some of the constraints under which they operate. 
+
+###############
+ part 13
+###############
+
+Enzymes Lower the Activation-Energy Barriers That Block Chemical Reactions
+
+Consider the reaction paper + O2 → smoke + ashes + heat + CO2 + H2O
+
+Once ignited, the paper burns readily, releasing to the atmosphere both energy as heat and water and carbon dioxide as gases. The reaction is irreversible, since the smoke and ashes never spontaneously retrieve these entities from the heated atmosphere and reconstitute themselves into paper. When the paper burns, its chemical energy is dissipated as heat—not lost from the universe, since energy can never be created or destroyed, but irretrievably dispersed in the chaotic random thermal motions of molecules. At the same time, the atoms and molecules of the paper become dispersed and disordered. In the language of thermodynamics, there has been a loss of free energy; that is, of energy that can be harnessed to do work or drive chemical reactions. This loss reflects a reduction of orderliness in the way the energy and molecules were stored in the paper.
+
+We shall discuss free energy in more detail shortly, but the general principle is clear enough intuitively: chemical reactions proceed spontaneously only in the direction that leads to a loss of free energy. In other words, the spontaneous direction for any reaction is the direction that goes “downhill,” where a “downhill” reaction is one that is energetically favorable.
+
+Although the most energetically favorable form of carbon under ordinary conditions is CO2, and that of hydrogen is H2O, a living organism does not disappear in a puff of smoke, and the paper book in your hands does not burst into flames. This is because the molecules both in the living organism and in the book are in a relatively stable state, and they cannot be changed to a state of lower energy without an input of energy: in other words, a molecule requires activation energy—a kick over an energy barrier—before it can undergo a chemical reaction that leaves it in a more stable state (Figure 2–21). In the case of a burning book, the activation energy can be provided by the heat of a lighted match. For the molecules in the watery solution inside a cell, the kick is delivered by an unusually energetic random collision with surrounding molecules—collisions that become more violent as the temperature is raised.
+
+###############
+ part 14
+###############
+
+The chemistry in a living cell is tightly controlled, because the kick over energy barriers is greatly aided by a specialized class of proteins—the enzymes. Each enzyme binds tightly to one or more molecules, called substrates, and holds them in a way that greatly reduces the activation energy of a particular chemical reaction that the bound substrates can undergo. A substance that can lower the activation energy of a reaction is termed a catalyst; catalysts increase the rate of chemical reactions because they allow a much larger proportion of the random collisions with surrounding molecules to kick the substrates over the energy barrier, as illustrated in Figure 2–22. Enzymes are among the most effective catalysts known: some are capable of speeding up reactions by factors of 1014 or more. Enzymes thereby allow reactions that would not otherwise occur to proceed rapidly at normal temperatures.
+
+Enzymes Can Drive Substrate Molecules Along Specific Reaction Pathways
+
+An enzyme cannot change the equilibrium point for a reaction. The reason is simple: when an enzyme (or any catalyst) lowers the activation energy for the reaction Y → X, of necessity it also lowers the activation energy for the reaction X → Y by exactly the same amount (see Figure 2–21). The forward and backward reactions will therefore be accelerated by the same factor by an enzyme, and the equilibrium point for the reaction will be unchanged (Figure 2–23). Thus no matter how much an enzyme speeds up a reaction, it cannot change its direction. Despite the above limitation, enzymes steer all of the reactions in cells through specific reaction paths. This is because enzymes are both highly selective and very precise, usually catalyzing only one particular reaction. In other words, each enzyme selectively lowers the activation energy of only one of the several possible chemical reactions that its bound substrate molecules could undergo. In this way, sets of enzymes can direct each of the many different molecules in a cell along a particular reaction pathway (Figure 2–24).
+
+The success of living organisms is attributable to a cell’s ability to make enzymes of many types, each with precisely specified properties. Each enzyme has a unique shape containing an active site, a pocket or groove in the enzyme into which only particular substrates will fit (Figure 2–25). Like all other catalysts, enzyme molecules themselves remain unchanged after participating in a reaction and therefore can function over and over again. In Chapter 3, we discuss further how enzymes work.
+
+###############
+ part 15
+###############
+
+How Enzymes Find Their Substrates: The Enormous Rapidity of Molecular Motions
+
+An enzyme will often catalyze the reaction of thousands of substrate molecules every second. This means that it must be able to bind a new substrate molecule in a fraction of a millisecond. But both enzymes and their substrates are present in relatively small numbers in a cell. How do they find each other so fast? Rapid binding is possible because the motions caused by heat energy are enormously fast at the molecular level. These molecular motions can be classified broadly into three kinds: (1) the movement of a molecule from one place to another (translational motion), (2) the rapid back-and-forth movement of covalently linked atoms with respect to one another (vibrations), and (3) rotations. All of these motions help to bring the surfaces of interacting molecules together.
+
+The rates of molecular motions can be measured by a variety of spectroscopic techniques. A large globular protein is constantly tumbling, rotating about its axis about a million times per second. Molecules are also in constant translational motion, which causes them to explore the space inside the cell very efficiently by wandering through it—a process called diffusion. In this way, every molecule in a cell collides with a huge number of other molecules each second. As the molecules in a liquid collide and bounce off one another, an individual molecule moves first one way and then another, its path constituting a random walk (Figure 2–26). In such a walk, the average net distance that each molecule travels (as the “crow flies”) from its starting point is proportional to the square root of the time involved: that is, if it takes a molecule 1 second on average to travel 1 μm, it takes 4 seconds to travel 2 μm, 100 seconds to travel 10 μm, and so on.
+
+The inside of a cell is very crowded (Figure 2–27). Nevertheless, experiments in which fluorescent dyes and other labeled molecules are injected into cells show that small organic molecules diffuse through the watery gel of the cytosol nearly as rapidly as they do through water. A small organic molecule, for example, takes only about one-fifth of a second on average to diffuse a distance of 10 μm. Diffusion is therefore an efficient way for small molecules to move the limited distances in the cell (a typical animal cell is 15 μm in diameter).
+
+###############
+ part 16
+###############
+
+Since enzymes move more slowly than substrates in cells, we can think of them as sitting still. The rate of encounter of each enzyme molecule with its substrate will depend on the concentration of the substrate molecule. For example, some abundant substrates are present at a concentration of 0.5 mM. Since pure water is 55.5 M, there is only about one such substrate molecule in the cell for every 105 water molecules. Nevertheless, the active site on an enzyme molecule that binds this substrate will be bombarded by about 500,000 random collisions with the substrate molecule per second. (For a substrate concentration tenfold lower, the number of collisions drops to 50,000 per second, and so on.) A random collision between the active site of an enzyme and the matching surface of its substrate molecule often leads immediately to the formation of an enzyme–substrate complex. A reaction in which a covalent bond is broken or formed can now occur extremely rapidly. When one appreciates how quickly molecules move and react, the observed rates of enzymatic catalysis do not seem so amazing.
+
+Two molecules that are held together by noncovalent bonds can also dissociate. The multiple weak noncovalent bonds that they form with each other will persist until random thermal motion causes the two molecules to separate. In general, the stronger the binding of the enzyme and substrate, the slower their rate of dissociation. In contrast, whenever two colliding molecules have poorly matching surfaces, they form few noncovalent bonds and the total energy of association will be negligible compared with that of thermal motion. In this case, the two molecules dissociate as rapidly as they come together, preventing incorrect and unwanted associations between mismatched molecules, such as between an enzyme and the wrong substrate.
+
+The Free-Energy Change for a Reaction, delta G, Determines Whether It Can Occur Spontaneously
+
+Although enzymes speed up reactions, they cannot by themselves force energetically unfavorable reactions to occur. In terms of a water analogy, enzymes by themselves cannot make water run uphill. Cells, however, must do just that in order to grow and divide: they must build highly ordered and energy-rich molecules from small and simple ones. We shall see that this is done through enzymes that directly couple energetically favorable reactions, which release energy and produce heat, to energetically unfavorable reactions, which produce biological order.
+
+###############
+ part 17
+###############
+
+What do cell biologists mean by the term “energetically favorable,” and how can this be quantified? According to the second law of thermodynamics the universe tends toward maximum disorder (largest entropy or greatest probability). Thus, a chemical reaction can proceed spontaneously only if it results in a net increase in the disorder of the universe (see Figure 2–16). This disorder of the universe can be expressed most conveniently in terms of the free energy of a system, a concept we touched on earlier.
+
+Free energy, G, is an expression of the energy available to do work—for example, the work of driving chemical reactions. The value of G is of interest only when a system undergoes a change, denoted delta G (delta G). The change in G is critical because, as explained in Panel 2–7 (pp. 102–103), delta G is a direct measure of the amount of disorder created in the universe when a reaction takes place. Energetically favorable reactions, by definition, are those that decrease free energy; in other words, they have a negative delta G and disorder the universe (Figure 2–28).
+
+An example of an energetically favorable reaction on a macroscopic scale is the “reaction” by which a compressed spring relaxes to an expanded state, releasing its stored elastic energy as heat to its surroundings; an example on a microscopic scale is salt dissolving in water. Conversely, energetically unfavorable reactions with a positive delta G—such as the joining of two amino acids to form a peptide bond—by themselves create order in the universe. Therefore, these reactions can take place only if they are coupled to a second reaction with a negative delta G so large that the delta G of the overall process is negative (Figure 2–29).
+
+The Concentration of Reactants Influences the Free-Energy Change and a Reaction’s Direction
+
+As we have just described, a reaction Y ↔ X will go in the direction Y → X when the associated free-energy change, delta G, is negative, just as a tensed spring left to itself will relax and lose its stored energy to its surroundings as heat. For a chemical reaction, however, delta G depends not only on the energy stored in each individual molecule, but also on the concentrations of the molecules in the reaction mixture. Remember that delta G reflects the degree to which a reaction creates a more disordered—in other words, a more probable—state of the universe. Recalling our coin analogy, it is very likely that a coin will flip from a head to a tail orientation if a jiggling box contains 90 heads and 10 tails, but this is a less probable event if the box has 10 heads and 90 tails.
+
+The same is true for a chemical reaction. For a reversible reaction Y ↔ X, a large excess of Y over X will tend to drive the reaction in the direction Y → X. Therefore, as the ratio of Y to X increases, the delta G becomes more negative for the transition Y → X (and more positive for the transition X → Y).
+
+###############
+ part 18
+###############
+
+The amount of concentration difference that is needed to compensate for a given decrease in chemical-bond energy (and accompanying heat release) is not intuitively obvious. In the late nineteenth century, the relationship was determined through a thermodynamic analysis that makes it possible to separate the concentration-dependent and the concentration-independent parts of the free-energy change, as we describe next.
+
+The Standard Free-Energy Change, delta G°, Makes It Possible to Compare the Energetics of Different Reactions
+
+Because delta G depends on the concentrations of the molecules in the reaction mixture at any given time, it is not a particularly useful value for comparing the relative energies of different types of reactions. To place reactions on a comparable basis, we need to turn to the standard free-energy change of a reaction, delta G°. The delta G° is the change in free energy under a standard condition, defined as that where the concentrations of all the reactants are set to the same fixed value of 1 mole/liter. Defined in this way, delta G° depends only on the intrinsic characters of the reacting molecules.
+
+For the simple reaction Y → X at 37°C, delta G° is related to delta G as follows:
+delta G = delta G° + RT ln
+where delta G is in kilojoules per mole, [Y] and [X] denote the concentrations of Y and X in moles/liter, ln is the natural logarithm, and RT is the product of the gas constant, R, and the absolute temperature, T. At 37°C, RT = 2.58 J mole–1. (A mole is 6 × 1023 molecules of a substance.)
+
+A large body of thermodynamic data has been collected that has made it possible to determine the standard free-energy change, delta G°, for the important metabolic reactions of a cell. Given these delta G° values, combined with additional information about metabolite concentrations and reaction pathways, it is possible to quantitatively predict the course of most biological reactions.
+
+The Equilibrium Constant and delta G° Are Readily Derived from Each Other
+
+Inspection of the above equation reveals that the delta G equals the value of delta G° when the concentrations of Y and X are equal. But as any favorable reaction proceeds, the concentrations of the products will increase as the concentration of the substrates decreases. This change in relative concentrations will cause [X]/[Y] to become increasingly large, making the initially favorable delta G less and less negative (the logarithm of a number x is positive for x > 1, negative for x < 1, and zero for x=1). Eventually, when delta G = 0, a chemical equilibrium will be attained; here there is no net change in free energy to drive the reaction in either direction, inasmuch as the concentration effect just balances the push given to the reaction by delta G°. As a result, the ratio of product to substrate reaches a constant value at chemical equilibrium (Figure 2–30).
+
+###############
+ part 19
+###############
+
+We can define the equilibrium constant, K, for the reaction Y → X as
+K = [X][Y]
+where [X] is the concentration of the product and [Y] is the concentration of the reactant at equilibrium. Remembering that delta G = delta G° + RT ln [X]/[Y], and that delta G = 0 at equilibrium, we see that delta G° = –RT ln [X][Y] = –RT ln K
+ 
+At 37°C, where RT = 2.58, the equilibrium equation is therefore:
+delta G° = –2.58 ln K
+
+Converting this equation from the natural logarithm (ln) to the more commonly used base 10 logarithm (log), we get
+delta G° = –5.94 log K
+
+The above equation reveals how the equilibrium ratio of X to Y (expressed as the equilibrium constant, K) depends on the intrinsic character of the molecules, (as expressed in the value of delta G° in kilojoules per mole). Note that for every 5.94 kJ/mole difference in free energy at 37°C, the equilibrium constant changes by a factor of 10 (Table 2–2). Thus, the more energetically favorable a reaction, the more product will accumulate if the reaction proceeds to equilibrium.
+
+More generally, for a reaction that has multiple reactants and products, such as A + B → C + D, K = [C][D] [A][B]
+
+The concentrations of the two reactants and the two products are multiplied because the rate of the forward reaction depends on the collision of A and B and the rate of the backward reaction depends on the collision of C and D. Thus, at 37°C, delta G° = –5.94 log [C][D] [A][B] where delta G° is in kilojoules per mole, and [A], [B], [C], and [D] denote the concentrations of the reactants and products in moles/liter.
+
+The Free-Energy Changes of Coupled Reactions Are Additive
+
+We have pointed out that unfavorable reactions can be coupled to favorable ones to drive the unfavorable ones forward (see Figure 2–29). In thermodynamic terms, this is possible because the overall free-energy change for a set of coupled reactions is the sum of the free-energy changes in each of its component steps. Consider, as a simple example, two sequential reactions X → Y and Y → Z whose delta G° values are +5 and –13 kJ/mole, respectively. If these two reactions occur sequentially, the delta G° for the coupled reaction will be –8 kJ/mole. This means that, with appropriate conditions, the unfavorable reaction X → Y can be driven by the favorable reaction Y → Z, provided that this second reaction follows the first. For example, several of the reactions in the long pathway that converts sugars into CO2 and H2O have positive delta G° values. But the pathway nevertheless proceeds because the total delta G° for the series of sequential reactions has a large negative value.
+
+Forming a sequential pathway is not adequate for many purposes. Often the desired pathway is simply X → Y, without further conversion of Y to some other product. Fortunately, there are other more general ways of using enzymes to couple reactions together. These often involve the activated carrier molecules that we discuss next.
+
+###############
+ part 20
+###############
+
+Activated Carrier Molecules Are Essential for Biosynthesis
+
+The energy released by the oxidation of food molecules must be stored temporarily before it can be channeled into the construction of the many other molecules needed by the cell. In most cases, the energy is stored as chemical-bond energy in a small set of activated “carrier molecules,” which contain one or more energyrich covalent bonds. These molecules diffuse rapidly throughout the cell and thereby carry their bond energy from sites of energy generation to the sites where the energy will be used for biosynthesis and other cell activities (Figure 2–31).
+
+The activated carriers store energy in an easily exchangeable form, either as a readily transferable chemical group or as electrons held at a high energy level, and they can serve a dual role as a source of both energy and chemical groups in biosynthetic reactions. For historical reasons, these molecules are also sometimes referred to as coenzymes. The most important of the activated carrier molecules are ATP and two molecules that are closely related to each other, NADH and NADPH. Cells use such activated carrier molecules like money to pay for reactions that otherwise could not take place.
+
+The Formation of an Activated Carrier Is Coupled to an Energetically Favorable Reaction
+
+Coupling mechanisms require enzymes and are fundamental to all the energy transactions of the cell. The nature of a coupled reaction is illustrated by a mechanical analogy in Figure 2–32, in which an energetically favorable chemical reaction is represented by rocks falling from a cliff. The energy of falling rocks would normally be entirely wasted in the form of heat generated by friction when the rocks hit the ground (see the falling-brick diagram in Figure 2–17). By careful design, however, part of this energy could be used instead to drive a paddle wheel that lifts a bucket of water (Figure 2–32B). Because the rocks can now reach the ground only after moving the paddle wheel, we say that the energetically favorable reaction of rock falling has been directly coupled to the energetically unfavorable reaction of lifting the bucket of water. Note that because part of the energy is used to do work in Figure 2–32B, the rocks hit the ground with less velocity than in Figure 2–32A, and correspondingly less energy is dissipated as heat.
+
+###############
+ part 21
+###############
+
+Similar processes occur in cells, where enzymes play the role of the paddle wheel. By mechanisms that we discuss later in this chapter, enzymes couple an energetically favorable reaction, such as the oxidation of foodstuffs, to an energetically unfavorable reaction, such as the generation of an activated carrier molecule. In this example, the amount of heat released by the oxidation reaction is reduced by exactly the amount of energy stored in the energy-rich covalent bonds of the activated carrier molecule. And the activated carrier molecule picks up a packet of energy of a size sufficient to power a chemical reaction elsewhere in the cell.
+
+ATP Is the Most Widely Used Activated Carrier Molecule
+
+The most important and versatile of the activated carriers in cells is ATP (adenosine triphosphate). Just as the energy stored in the raised bucket of water in Figure 2–32B can drive a wide variety of hydraulic machines, ATP is a convenient and versatile store, or currency, of energy used to drive a variety of chemical reactions in cells. ATP is synthesized in an energetically unfavorable phosphorylation reaction in which a phosphate group is added to ADP (adenosine diphosphate). When required, ATP gives up its energy packet through its energetically favorable hydrolysis to ADP and inorganic phosphate (Figure 2–33). The regenerated ADP is then available to be used for another round of the phosphorylation reaction that forms ATP.
+
+The energetically favorable reaction of ATP hydrolysis is coupled to many otherwise unfavorable reactions through which other molecules are synthesized. Many of these coupled reactions involve the transfer of the terminal phosphate in ATP to another molecule, as illustrated by the phosphorylation reaction in Figure 2–34.
+
+As the most abundant activated carrier in cells, ATP is the principle energy currency. To give just two examples, it supplies energy for many of the pumps that transport substances into and out of the cell (discussed in Chapter 11), and it powers the molecular motors that enable muscle cells to contract and nerve cells to transport materials from one end of their long axons to another (discussed in Chapter 16).
+
+Energy Stored in ATP Is Often Harnessed to Join Two Molecules Together
+
+We have previously discussed one way in which an energetically favorable reaction can be coupled to an energetically unfavorable reaction, X → Y, so as to enable it to occur. In that scheme, a second enzyme catalyzes the energetically favorable reaction Y → Z, pulling all of the X to Y in the process. But when the required product is Y and not Z, this mechanism is not useful
+
+A typical biosynthetic reaction is one in which two molecules, A and B, are joined together to produce A–B in the energetically unfavorable condensation reaction A–H + B–OH → A–B + H2O
+
+###############
+ part 22
+###############
+
+There is an indirect pathway that allows A–H and B–OH to form A–B, in which a coupling to ATP hydrolysis makes the reaction go. Here, energy from ATP hydrolysis is first used to convert B–OH to a higher-energy intermediate compound, which then reacts directly with A–H to give A–B. The simplest possible mechanism involves the transfer of a phosphate from ATP to B–OH to make B–O–PO3, in which case the reaction pathway contains only two steps:
+1. B–OH + ATP → B–O–PO3 + ADP
+2. A–H + B–O–PO3 → A–B + Pi
+Net result: B–OH + ATP + A–H → A–B + ADP + Pi
+
+The condensation reaction, which by itself is energetically unfavorable, is forced to occur by being directly coupled to ATP hydrolysis in an enzyme-catalyzed reaction pathway (Figure 2–35A). A biosynthetic reaction of exactly this type synthesizes the amino acid glutamine (Figure 2–35B). We will see shortly that similar (but more complex) mechanisms are also used to produce nearly all of the large molecules of the cell.
+
+NADH and NADPH Are Important Electron Carriers
+
+Other important activated carrier molecules participate in oxidation–reduction reactions and are commonly part of coupled reactions in cells. These activated carriers are specialized to carry electrons held at a high energy level (sometimes called “high-energy” electrons) and hydrogen atoms. The most important of these electron carriers are NAD+ (nicotinamide adenine dinucleotide) and the closely related molecule NADP+ (nicotinamide adenine dinucleotide phosphate). Each picks up a “packet of energy” corresponding to two electrons plus a proton (H+), and they are thereby converted to NADH (reduced nicotinamide adenine dinucleotide) and NADPH (reduced nicotinamide adenine dinucleotide phosphate), respectively (Figure 2–36). These molecules can therefore be regarded as carriers of hydride ions (the H+ plus two electrons, or H–).
+
+Like ATP, NADPH is an activated carrier that participates in many important biosynthetic reactions that would otherwise be energetically unfavorable. The NADPH is produced according to the general scheme shown in Figure 2–36A. During a special set of energy-yielding catabolic reactions, two hydrogen atoms are removed from a substrate molecule. Both electrons but just one proton (that is, a hydride ion, H–) are added to the nicotinamide ring of NADP+ to form NADPH; the second proton (H+) is released into solution. This is a typical oxidation–reduction reaction, in which the substrate is oxidized and NADP+ is reduced.
+
+###############
+ part 23
+###############
+
+NADPH readily gives up the hydride ion it carries in a subsequent oxidation–reduction reaction, because the nicotinamide ring can achieve a more stable arrangement of electrons without it. In this subsequent reaction, which regenerates NADP+, it is the NADPH that is oxidized and the substrate that is reduced. The NADPH is an effective donor of its hydride ion to other molecules for the same reason that ATP readily transfers a phosphate: in both cases the transfer is accompanied by a large negative free-energy change. One example of the use of NADPH in biosynthesis is shown in Figure 2–37.
+
+The extra phosphate group on NADPH has no effect on the electron-transfer properties of NADPH compared with NADH, being far away from the region involved in electron transfer (see Figure 2–36C). It does, however, give a molecule of NADPH a slightly different shape from that of NADH, making it possible for NADPH and NADH to bind as substrates to completely different sets of enzymes. Thus, the two types of carriers are used to transfer electrons (or hydride ions) between two different sets of molecules.
+
+Why should there be this division of labor? The answer lies in the need to regulate two sets of electron-transfer reactions independently. NADPH operates chiefly with enzymes that catalyze anabolic reactions, supplying the high-energy electrons needed to synthesize energy-rich biological molecules. NADH, by contrast, has a special role as an intermediate in the catabolic system of reactions that generate ATP through the oxidation of food molecules, as we will discuss shortly. The genesis of NADH from NAD+, and of NADPH from NADP+, occur by different pathways and are independently regulated, so that the cell can adjust the supply of electrons for these two contrasting purposes. Inside the cell the ratio of NAD+ to NADH is kept high, whereas the ratio of NADP+ to NADPH is kept low. This provides plenty of NAD+ to act as an oxidizing agent and plenty of NADPH to act as a reducing agent (Figure 2–37B)—as required for their special roles in catabolism and anabolism, respectively.
+
+There Are Many Other Activated Carrier Molecules in Cells
+
+Other activated carriers also pick up and carry a chemical group in an easily transferred, high-energy linkage. For example, coenzyme A carries a readily transferable acetyl group in a thioester linkage, and in this activated form is known as acetyl CoA (acetyl coenzyme A). Acetyl CoA (Figure 2–38) is used to add two carbon units in the biosynthesis of larger molecules.
+
+###############
+ part 24
+###############
+
+In acetyl CoA, as in other carrier molecules, the transferable group makes up only a small part of the molecule. The rest consists of a large organic portion that serves as a convenient “handle,” facilitating the recognition of the carrier molecule by specific enzymes. As with acetyl CoA, this handle portion very often contains a nucleotide (usually adenosine), a curious fact that may be a relic from an early stage of evolution. It is currently thought that the main catalysts for early life-forms—before DNA or proteins—were RNA molecules (or their close relatives), as described in Chapter 6. It is tempting to speculate that many of the carrier molecules that we find today originated in this earlier RNA world, where their nucleotide portions could have been useful for binding them to RNA enzymes (ribozymes).
+
+Thus, ATP transfers phosphate, NADPH transfers electrons and hydrogen, and acetyl CoA transfers two-carbon acetyl groups. FADH2 (reduced flavin adenine dinucleotide) is used like NADH in electron and proton transfers (Figure 2–39). The reactions of other activated carrier molecules involve the transfer of a methyl, carboxyl, or glucose group for biosyntheses (Table 2–3). These activated carriers are generated in reactions that are coupled to ATP hydrolysis, as in the example in Figure 2–40. Therefore, the energy that enables their groups to be used for biosynthesis ultimately comes from the catabolic reactions that generate ATP. Similar processes occur in the synthesis of the very large molecules of the cell—the nucleic acids, proteins, and polysaccharides—that we discuss next.
+
+The Synthesis of Biological Polymers Is Driven by ATP Hydrolysis
+
+As discussed previously, the macromolecules of the cell constitute most of its dry mass (see Figure 2–7). These molecules are made from subunits (or monomers) that are linked together in a condensation reaction, in which the constituents of a water molecule (OH plus H) are removed from the two reactants. Consequently, the reverse reaction—the breakdown of all three types of polymers—occurs by the enzyme-catalyzed addition of water (hydrolysis). This hydrolysis reaction is energetically favorable, whereas the biosynthetic reactions require an energy input (see Figure 2–9).
+
+The nucleic acids (DNA and RNA), proteins, and polysaccharides are all polymers that are produced by the repeated addition of a monomer onto one end of a growing chain. The synthesis reactions for these three types of macromolecules are outlined in Figure 2–41. As indicated, the condensation step in each case depends on energy from nucleoside triphosphate hydrolysis. And yet, except for the nucleic acids, there are no phosphate groups left in the final product molecules. How are the reactions that release the energy of ATP hydrolysis coupled to polymer synthesis?
+
+###############
+ part 25
+###############
+
+For each type of macromolecule, an enzyme-catalyzed pathway exists which resembles that discussed previously for the synthesis of the amino acid glutamine (see Figure 2–35). The principle is exactly the same, in that the –OH group that will be removed in the condensation reaction is first activated by becoming involved in a high-energy linkage to a second molecule. However, the actual mechanisms used to link ATP hydrolysis to the synthesis of proteins and polysaccharides are more complex than that used for glutamine synthesis, since a series of high-energy intermediates is required to generate the final high-energy bond that is broken during the condensation step (discussed in Chapter 6 for protein synthesis).
+
+Each activated carrier has limits in its ability to drive a biosynthetic reaction. The delta G for the hydrolysis of ATP to ADP and inorganic phosphate (Pi) depends on the concentrations of all of the reactants, but under the usual conditions in a cell it is between –46 and –54 kJ/mole. In principle, this hydrolysis reaction could drive an unfavorable reaction with a delta G of, perhaps, +40 kJ/mole, provided that a suitable reaction path is available. For some biosynthetic reactions, however, even –50 kJ/mole does not provide enough of a driving force. In these cases, the path of ATP hydrolysis can be altered so that it initially produces AMP and pyrophosphate (PPi), which is itself then hydrolyzed in a subsequent step (Figure 2–42). The whole process makes available a total free-energy change of about –100 kJ/mole. An important type of biosynthetic reaction that is driven in this way is the synthesis of nucleic acids (polynucleotides) from nucleoside triphosphates, as illustrated on the right side of Figure 2–43.
+
+Note that the repetitive condensation reactions that produce macromolecules can be oriented in one of two ways, giving rise to either the head polymerization or the tail polymerization of monomers. In so-called head polymerization, the reactive bond required for the condensation reaction is carried on the end of the growing polymer, and it must therefore be regenerated each time that a monomer is added. In this case, each monomer brings with it the reactive bond that will be used in adding the next monomer in the series. In tail polymerization, the reactive bond carried by each monomer is instead used immediately for its own addition (Figure 2–44).
+
+We shall see in later chapters that both of these types of polymerization are used. The synthesis of polynucleotides and some simple polysaccharides occurs by tail polymerization, for example, whereas the synthesis of proteins occurs by a head polymerization process.
+
+###############
+ part 26
+###############
+
+Summary
+
+Living cells need to create and maintain order within themselves to survive and grow. This is thermodynamically possible only because of a continual input of energy, part of which must be released from the cells to their environment as heat that disorders the surroundings. The only chemical reactions possible are those that increase the total amount of disorder in the universe. The free-energy change for a reaction, delta G, measures this disorder, and it must be less than zero for a reaction to proceed spontaneously. This delta G depends both on the intrinsic properties of the reacting molecules and their concentrations, and it can be calculated from these concentrations if either the equilibrium constant (K) for the reaction or its standard free-energy change, delta G°, is known.
+
+The energy needed for life comes ultimately from the electromagnetic radiation of the sun, which drives the formation of organic molecules in photosynthetic organisms such as green plants. Animals obtain their energy by eating organic molecules and oxidizing them in a series of enzyme-catalyzed reactions that are coupled to the formation of ATP—a common currency of energy in all cells.
+
+To make possible the continual generation of order in cells, energetically favorable reactions, such as the hydrolysis of ATP, are coupled to energetically unfavorable reactions. In the biosynthesis of macromolecules, ATP is used to form reactive phosphorylated intermediates. Because the energetically unfavorable reaction of biosynthesis now becomes energetically favorable, ATP hydrolysis is said to drive the reaction. Polymeric molecules such as proteins, nucleic acids, and polysaccharides are assembled from small activated precursor molecules by repetitive condensation reactions that are driven in this way. Other reactive molecules, called either activated carriers or coenzymes, transfer other chemical groups in the course of biosynthesis: NADPH transfers hydrogen as a proton plus two electrons (a hydride ion), for example, whereas acetyl CoA transfers an acetyl group.
+
+HOW CELLS OBTAIN ENERGY FROM FOOD
+
+The constant supply of energy that cells need to generate and maintain the biological order that keeps them alive comes from the chemical-bond energy in food molecules.
+
+The proteins, lipids, and polysaccharides that make up most of the food we eat must be broken down into smaller molecules before our cells can use them—either as a source of energy or as building blocks for other molecules. Enzymatic digestion breaks down the large polymeric molecules in food into their monomer subunits—proteins into amino acids, polysaccharides into sugars, and fats into fatty acids and glycerol. After digestion, the small organic molecules derived from food enter the cytosol of cells, where their gradual oxidation begins.
+
+###############
+ part 27
+###############
+
+Sugars are particularly important fuel molecules, and they are oxidized in small controlled steps to carbon dioxide (CO2) and water (Figure 2–45). In this section, we trace the major steps in the breakdown, or catabolism, of sugars and show how they produce ATP, NADH, and other activated carrier molecules in animal cells. A very similar pathway also operates in plants, fungi, and many bacteria. As we shall see, the oxidation of fatty acids is equally important for cells. Other molecules, such as proteins, can also serve as energy sources when they are funneled through appropriate enzymatic pathways.
+
+Glycolysis Is a Central ATP-Producing Pathway
+
+The major process for oxidizing sugars is the sequence of reactions known as glycolysis—from the Greek glukus, “sweet,” and lusis, “rupture.” Glycolysis produces ATP without the involvement of molecular oxygen (O2 gas). It occurs in the cytosol of most cells, including many anaerobic microorganisms. Glycolysis probably evolved early in the history of life, before photosynthetic organisms introduced oxygen into the atmosphere. During glycolysis, a glucose molecule with six carbon atoms is converted into two molecules of pyruvate, each of which contains three carbon atoms. For each glucose molecule, two molecules of ATP are hydrolyzed to provide energy to drive the early steps, but four molecules of ATP are produced in the later steps. At the end of glycolysis, there is consequently a net gain of two molecules of ATP for each glucose molecule broken down. Two molecules of the activated carrier NADH are also produced.
+
+The glycolytic pathway is outlined in Figure 2–46 and shown in more detail in Panel 2–8 (pp. 104–105) and Movie 2.5. Glycolysis involves a sequence of 10 separate reactions, each producing a different sugar intermediate and each catalyzed by a different enzyme. Like most enzymes, these have names ending in ase—such as isomerase and dehydrogenase—to indicate the type of reaction they catalyze.
+
+Although no molecular oxygen is used in glycolysis, oxidation occurs, in that electrons are removed by NAD+ (producing NADH) from some of the carbons derived from the glucose molecule. The stepwise nature of the process releases the energy of oxidation in small packets, so that much of it can be stored in activated carrier molecules rather than all of it being released as heat (see Figure 2–45). Thus, some of the energy released by oxidation drives the direct synthesis of ATP molecules from ADP and Pi, and some remains with the electrons in the electron carrier NADH.
+
+Two molecules of NADH are formed per molecule of glucose in the course of glycolysis. In aerobic organisms, these NADH molecules donate their electrons to the electron-transport chain described in Chapter 14, and the NAD+ formed from the NADH is used again for glycolysis (see step 6 in Panel 2–8, pp. 104–105).
+
+###############
+ part 28
+###############
+
+Fermentations Produce ATP in the Absence of Oxygen
+
+For most animal and plant cells, glycolysis is only a prelude to the final stage of the breakdown of food molecules. In these cells, the pyruvate formed by glycolysis is rapidly transported into the mitochondria, where it is converted into CO2 plus acetyl CoA, whose acetyl group is then completely oxidized to CO2 and H2O.
+
+In contrast, for many anaerobic organisms—which do not utilize molecular oxygen and can grow and divide without it—glycolysis is the principal source of the cell’s ATP. Certain animal tissues, such as skeletal muscle, can also continue to function when molecular oxygen is limited. In these anaerobic conditions, the pyruvate and the NADH electrons stay in the cytosol. The pyruvate is converted into products excreted from the cell—for example, into ethanol and CO2 in the yeasts used in brewing and breadmaking, or into lactate in muscle. In this process, the NADH gives up its electrons and is converted back into NAD+. This regeneration of NAD+ is required to maintain the reactions of glycolysis (Figure 2–47).
+
+Energy-yielding pathways like these, in which organic molecules both donate and accept electrons (and which are often, as in these cases, anaerobic), are called fermentations. Studies of the commercially important fermentations carried out by yeasts inspired much of early biochemistry. Work in the nineteenth century led in 1896 to the then startling recognition that these processes could be studied outside living organisms, in cell extracts. This revolutionary discovery eventually made it possible to dissect out and study each of the individual reactions in the fermentation process. The piecing together of the complete glycolytic pathway in the 1930s was a major triumph of biochemistry, and it was quickly followed by the recognition of the central role of ATP in cell processes.
+
+Glycolysis Illustrates How Enzymes Couple Oxidation to Energy Storage
+
+The formation of ATP during glycolysis provides a particularly clear demonstration of how enzymes couple energetically unfavorable reactions with favorable ones, thereby driving the many chemical reactions that make life possible. Two central reactions in glycolysis (steps 6 and 7) convert the three-carbon sugar intermediate glyceraldehyde 3-phosphate (an aldehyde) into 3-phosphoglycerate (a carboxylic acid; see Panel 2–8, pp. 104–105), thus oxidizing an aldehyde group to a carboxylic acid group. The overall reaction releases enough free energy to convert a molecule of ADP to ATP and to transfer two electrons (and a proton) from the aldehyde to NAD+ to form NADH, while still liberating enough heat to the environment to make the overall reaction energetically favorable (delta G° for the overall reaction is –12.5 kJ/mole).
+
+###############
+ part 29
+###############
+
+Figure 2–48 outlines this remarkable feat of energy harvesting. The chemical reactions are precisely guided by two enzymes to which the sugar intermediates are tightly bound. As detailed in Figure 2–48, the first enzyme (glyceraldehyde 3-phosphate dehydrogenase) forms a short-lived covalent bond to the aldehyde through a reactive –SH group on the enzyme, and catalyzes its oxidation by NAD+ in this attached state. The reactive enzyme–substrate bond is then displaced by an inorganic phosphate ion to produce a high-energy phosphate intermediate, which is released from the enzyme. This intermediate binds to the second enzyme (phosphoglycerate kinase), which catalyzes the energetically favorable transfer of the high-energy phosphate just created to ADP, forming ATP and completing the process of oxidizing an aldehyde to a carboxylic acid. Note that the C–H bond oxidation energy in step 6 drives the formation of both NADH and a high-energy phosphate bond. The breakage of the high-energy bond then drives ATP formation.
+
+We have shown this particular oxidation process in some detail because it provides a clear example of enzyme-mediated energy storage through coupled reactions (Figure 2–49). Steps 6 and 7 are the only reactions in glycolysis that create a high-energy phosphate linkage directly from inorganic phosphate. As such, they account for the net yield of two ATP molecules and two NADH molecules per molecule of glucose (see Panel 2–8, pp. 104–105).
+
+As we have just seen, ATP can be formed readily from ADP when a reaction intermediate is formed with a phosphate bond of higher energy than the terminal phosphate bond in ATP. Phosphate bonds can be ordered in energy by comparing the standard free-energy change (delta G°) for the breakage of each bond by hydrolysis. Figure 2–50 compares the high-energy phosphoanhydride bonds in ATP with the energy of some other phosphate bonds, several of which are generated during glycolysis.
+
+Organisms Store Food Molecules in Special Reservoirs
+
+All organisms need to maintain a high ATP/ADP ratio to maintain biological order in their cells. Yet animals have only periodic access to food, and plants need to survive overnight without sunlight, when they are unable to produce sugar from photosynthesis. For this reason, both plants and animals convert sugars and fats to special forms for storage (Figure 2–51).
+
+To compensate for long periods of fasting, animals store fatty acids as fat droplets composed of water-insoluble triacylglycerols (also called triglycerides). The triacylglycerols in animals are mostly stored in the cytoplasm of specialized fat cells called adipocytes. For shorter-term storage, sugar is stored as glucose subunits in the large branched polysaccharide glycogen, which is present as small granules in the cytoplasm of many cells, including liver and muscle. 
+
+###############
+ part 30
+###############
+
+The synthesis and degradation of glycogen are rapidly regulated according to need. When cells need more ATP than they can generate from the food molecules taken in from the bloodstream, they break down glycogen in a reaction that produces glucose 1-phosphate, which is rapidly converted to glucose 6-phosphate for glycolysis (Figure 2–52).
+
+Quantitatively, fat is far more important than glycogen as an energy store for animals, presumably because it provides for more efficient storage. The oxidation of a gram of fat releases about twice as much energy as the oxidation of a gram of glycogen. Moreover, glycogen differs from fat in binding a great deal of water, producing a sixfold difference in the actual mass of glycogen required to store the same amount of energy as fat. An average adult human stores enough glycogen for only about a day of normal activities, but enough fat to last for nearly a month. If our main fuel reservoir had to be carried as glycogen instead of fat, body weight would increase by an average of about 60 pounds.
+
+The sugar and ATP needed by plant cells are largely produced in separate organelles: sugars in chloroplasts (the organelles specialized for photosynthesis), and ATP in mitochondria. Although plants produce abundant amounts of both ATP and NADPH in their chloroplasts, this organelle is isolated from the rest of its plant cell by a membrane that is impermeable to both types of activated carrier molecules. Moreover, the plant contains many cells—such as those in the roots— that lack chloroplasts and therefore cannot produce their own sugars. Thus, sugars are exported from chloroplasts to the mitochondria present in all cells of the plant. Most of the ATP needed for general plant cell metabolism is synthesized in these mitochondria, using exactly the same pathways for the oxidative breakdown of sugars as in nonphotosynthetic organisms; this ATP is then passed to the rest of the cell (see Figure 14–42).
+
+During periods of excess photosynthetic capacity during the day, chloroplasts convert some of the sugars that they make into fats and into starch, a polymer of glucose analogous to the glycogen of animals. The fats in plants are triacyl-glycerols (triglycerides), just like the fats in animals, and differ only in the types of fatty acids that predominate. Fat and starch are both stored inside the chloroplast until needed for energy-yielding oxidation during periods of darkness (see Figure 2–51C).
+
+The embryos inside plant seeds must live on stored sources of energy for a prolonged period, until they germinate and produce leaves that can harvest the energy in sunlight. For this reason plant seeds often contain especially large amounts of fats and starch—which makes them a major food source for animals, including ourselves (Figure 2–53).
+
+###############
+ part 31
+###############
+
+Most Animal Cells Derive Their Energy from Fatty Acids Between Meals
+
+After a meal, most of the energy that an animal needs is derived from sugars obtained from food. Excess sugars, if any, are used to replenish depleted glycogen stores, or to synthesize fats as a food store. But soon the fat stored in adipose tissue is called into play, and by the morning after an overnight fast, fatty acid oxidation generates most of the ATP we need.
+
+Low glucose levels in the blood trigger the breakdown of fats for energy production. As illustrated in Figure 2–54, the triacylglycerols stored in fat droplets in adipocytes are hydrolyzed to produce fatty acids and glycerol, and the fatty acids released are transferred to cells in the body through the bloodstream. While animals readily convert sugars to fats, they cannot convert fatty acids to sugars. Instead, the fatty acids are oxidized directly.
+
+Sugars and Fats Are Both Degraded to Acetyl CoA in Mitochondria
+
+In aerobic metabolism, the pyruvate that was produced by glycolysis from sugars in the cytosol is transported into the mitochondria of eukaryotic cells. There, it is rapidly decarboxylated by a giant complex of three enzymes, called the pyruvate dehydrogenase complex. The products of pyruvate decarboxylation are a molecule of CO2 (a waste product), a molecule of NADH, and acetyl CoA (see Panel 2–9).
+
+The fatty acids imported from the bloodstream are moved into mitochondria, where all of their oxidation takes place (Figure 2–55). Each molecule of fatty acid (as the activated molecule fatty acyl CoA) is broken down completely by a cycle of reactions that trims two carbons at a time from its carboxyl end, generating one molecule of acetyl CoA for each turn of the cycle. A molecule of NADH and a molecule of FADH2 are also produced in this process (Figure 2–56).
+
+Sugars and fats are the major energy sources for most nonphotosynthetic organisms, including humans. However, most of the useful energy that can be extracted from the oxidation of both types of foodstuffs remains stored in the acetyl CoA molecules that are produced by the two types of reactions just described. The citric acid cycle of reactions, in which the acetyl group (–COCH3) in acetyl CoA is oxidized to CO2 and H2O, is therefore central to the energy metabolism of aerobic organisms. In eukaryotes, these reactions all take place in mitochondria. We should therefore not be surprised to discover that the mitochondrion is the place where most of the ATP is produced in animal cells. In contrast, aerobic bacteria carry out all of their reactions, including the citric acid cycle, in a single compartment, the cytosol.
+
+###############
+ part 32
+###############
+
+The Citric Acid Cycle Generates NADH by Oxidizing Acetyl Groups to CO2
+
+In the nineteenth century, biologists noticed that in the absence of air cells produce lactic acid (for example, in muscle) or ethanol (for example, in yeast), while in its presence they consume O2 and produce CO2 and H2O. Efforts to define the pathways of aerobic metabolism eventually focused on the oxidation of pyruvate and led in 1937 to the discovery of the citric acid cycle, also known as the tricarboxylic acid cycle or the Krebs cycle. The citric acid cycle accounts for about two-thirds of the total oxidation of carbon compounds in most cells, and its major end products are CO2 and high-energy electrons in the form of NADH. The CO2 is released as a waste product, while the high-energy electrons from NADH are passed to a membrane-bound electron-transport chain (discussed in Chapter 14), eventually combining with O2 to produce H2O. The citric acid cycle itself does not use gaseous O2 (it uses oxygen atoms from H2O). But the cycle does require O2 in subsequent reactions to keep it going. This is because there is no other efficient way for the NADH to get rid of its electrons and thus regenerate the NAD+ that is needed.
+
+The citric acid cycle takes place inside mitochondria in eukaryotic cells. It results in the complete oxidation of the carbon atoms of the acetyl groups in acetyl CoA, converting them into CO2. But the acetyl group is not oxidized directly. Instead, this group is transferred from acetyl CoA to a larger, four-carbon molecule, oxaloacetate, to form the six-carbon tricarboxylic acid, citric acid, for which the subsequent cycle of reactions is named. The citric acid molecule is then gradually oxidized, allowing the energy of this oxidation to be harnessed to produce energy-rich activated carrier molecules. The chain of eight reactions forms a cycle because at the end the oxaloacetate is regenerated and enters a new turn of the cycle, as shown in outline in Figure 2–57.
+
+We have thus far discussed only one of the three types of activated carrier molecules that are produced by the citric acid cycle; NADH, the reduced form of the NAD+/NADH electron carrier system (see Figure 2–36). In addition to three molecules of NADH, each turn of the cycle also produces one molecule of FADH2 (reduced flavin adenine dinucleotide) from FAD (see Figure 2–39), and one molecule of the ribonucleoside triphosphate GTP from GDP. The structure of GTP is illustrated in Figure 2–58. GTP is a close relative of ATP, and the transfer of its terminal phosphate group to ADP produces one ATP molecule in each cycle. As we discuss shortly, the energy that is stored in the readily transferred electrons of NADH and FADH2 will be utilized subsequently for ATP production through the process of oxidative phosphorylation, the only step in the oxidative catabolism of foodstuffs that directly requires gaseous oxygen (O2) from the atmosphere.
+
+###############
+ part 33
+###############
+
+Panel 2–9 (pp. 106–107) and Movie 2.6 present the complete citric acid cycle. Water, rather than molecular oxygen, supplies the extra oxygen atoms required to make CO2 from the acetyl groups entering the citric acid cycle. As illustrated in the panel, three molecules of water are split in each cycle, and the oxygen atoms of some of them are ultimately used to make CO2.
+
+In addition to pyruvate and fatty acids, some amino acids pass from the cytosol into mitochondria, where they are also converted into acetyl CoA or one of the other intermediates of the citric acid cycle. Thus, in the eukaryotic cell, the mitochondrion is the center toward which all energy-yielding processes lead, whether they begin with sugars, fats, or proteins.
+
+Both the citric acid cycle and glycolysis also function as starting points for important biosynthetic reactions by producing vital carbon-containing intermediates, such as oxaloacetate and α-ketoglutarate. Some of these substances produced by catabolism are transferred back from the mitochondria to the cytosol, where they serve in anabolic reactions as precursors for the synthesis of many essential molecules, such as amino acids (Figure 2–59).
+
+Electron Transport Drives the Synthesis of the Majority of the ATP in Most Cells
+
+Most chemical energy is released in the last stage in the degradation of a food molecule. In this final process, NADH and FADH2 transfer the electrons that they gained when oxidizing food-derived organic molecules to the electron-transport chain, which is embedded in the inner membrane of the mitochondrion (see Figure 14–10). As the electrons pass along this long chain of specialized electron acceptor and donor molecules, they fall to successively lower energy states. The energy that the electrons release in this process pumps H+ ions (protons) across the membrane—from the innermost mitochondrial compartment (the matrix) to the intermembrane space (and then to the cytosol)—generating a gradient of H+ ions (Figure 2–60). This gradient serves as a major source of energy for cells, being tapped like a battery to drive a variety of energy-requiring reactions. The most prominent of these reactions is the generation of ATP by the phosphorylation of ADP. 
+
+At the end of this series of electron transfers, the electrons are passed to molecules of oxygen gas (O2) that have diffused into the mitochondrion, which simultaneously combine with protons (H+) from the surrounding solution to produce water. The electrons have now reached a low energy level, and all the available energy has been extracted from the oxidized food molecule. This process, termed oxidative phosphorylation (Figure 2–61), also occurs in the plasma membrane of bacteria. As one of the most remarkable achievements of cell evolution, it is a central topic of Chapter 14.
+
+###############
+ part 34
+###############
+
+In total, the complete oxidation of a molecule of glucose to H2O and CO2 is used by the cell to produce about 30 molecules of ATP. In contrast, only 2 molecules of ATP are produced per molecule of glucose by glycolysis alone.
+
+Amino Acids and Nucleotides Are Part of the Nitrogen Cycle
+
+So far we have concentrated mainly on carbohydrate metabolism and have not yet considered the metabolism of nitrogen or sulfur. These two elements are important constituents of biological macromolecules. Nitrogen and sulfur atoms pass from compound to compound and between organisms and their environment in a series of reversible cycles.
+
+Although molecular nitrogen is abundant in the Earth’s atmosphere, nitrogen is chemically unreactive as a gas. Only a few living species are able to incorporate it into organic molecules, a process called nitrogen fixation. Nitrogen fixation occurs in certain microorganisms and by some geophysical processes, such as lightning discharge. It is essential to the biosphere as a whole, for without it life could not exist on this planet. Only a small fraction of the nitrogenous compounds in today’s organisms, however, is due to fresh products of nitrogen fixation from the atmosphere. Most organic nitrogen has been in circulation for some time, passing from one living organism to another. Thus, present-day nitrogen-fixing reactions can be said to perform a “topping-up” function for the total nitrogen supply.
+
+Vertebrates receive virtually all of their nitrogen from their dietary intake of proteins and nucleic acids. In the body, these macromolecules are broken down to amino acids and the components of nucleotides, and the nitrogen they contain is used to produce new proteins and nucleic acids—or other molecules. About half of the 20 amino acids found in proteins are essential amino acids for vertebrates (Figure 2–62), which means that they cannot be synthesized from other ingredients of the diet. The other amino acids can be so synthesized, using a variety of raw materials, including intermediates of the citric acid cycle. The essential amino acids are made by plants and other organisms, usually by long and energetically expensive pathways that have been lost in the course of vertebrate evolution.
+
+The nucleotides needed to make RNA and DNA can be synthesized using specialized biosynthetic pathways. All of the nitrogens in the purine and pyrimidine bases (as well as some of the carbons) are derived from the plentiful amino acids glutamine, aspartic acid, and glycine, whereas the ribose and deoxyribose sugars are derived from glucose. There are no “essential nucleotides” that must be provided in the diet.
+
+###############
+ part 35
+###############
+
+Amino acids not used in biosynthesis can be oxidized to generate metabolic energy. Most of their carbon and hydrogen atoms eventually form CO2 or H2O, whereas their nitrogen atoms are shuttled through various forms and eventually appear as urea, which is excreted. Each amino acid is processed differently, and a whole constellation of enzymatic reactions exists for their catabolism.
+
+Sulfur is abundant on Earth in its most oxidized form, sulfate (SO4 2–). To be useful for life, sulfate must be reduced to sulfide (S2–), the oxidation state of sulfur required for the synthesis of essential biological molecules, including the amino acids methionine and cysteine, coenzyme A (see Figure 2–39), and the iron-sulfur centers essential for electron transport (see Figure 14–16). The sulfur-reduction process begins in bacteria, fungi, and plants, where a special group of enzymes use ATP and reducing power to create a sulfate assimilation pathway. Humans and other animals cannot reduce sulfate and must therefore acquire the sulfur they need for their metabolism in the food that they eat.
+
+Metabolism Is Highly Organized and Regulated
+
+One gets a sense of the intricacy of a cell as a chemical machine from the relation of glycolysis and the citric acid cycle to the other metabolic pathways sketched out in Figure 2–63. This chart represents only some of the enzymatic pathways in a human cell. It is obvious that our discussion of cell metabolism has dealt with only a tiny fraction of the broad field of cell chemistry.
+
+All these reactions occur in a cell that is less than 0.1 mm in diameter, and each requires a different enzyme. As is clear from Figure 2–63, the same molecule can often be part of many different pathways. Pyruvate, for example, is a substrate for half a dozen or more different enzymes, each of which modifies it chemically in a different way. One enzyme converts pyruvate to acetyl CoA, another to oxaloacetate; a third enzyme changes pyruvate to the amino acid alanine, a fourth to lactate, and so on. All of these different pathways compete for the same pyruvate molecule, and similar competitions for thousands of other small molecules go on at the same time.
+
+The situation is further complicated in a multicellular organism. Different cell types will in general require somewhat different sets of enzymes. And different tissues make distinct contributions to the chemistry of the organism as a whole. In addition to differences in specialized products such as hormones or antibodies, there are significant differences in the “common” metabolic pathways among various types of cells in the same organism.
+
+###############
+ part 36
+###############
+
+Although virtually all cells contain the enzymes of glycolysis, the citric acid cycle, lipid synthesis and breakdown, and amino acid metabolism, the levels of these processes required in different tissues are not the same. For example, nerve cells, which are probably the most fastidious cells in the body, maintain almost no reserves of glycogen or fatty acids and rely almost entirely on a constant supply of glucose from the bloodstream. In contrast, liver cells supply glucose to actively contracting muscle cells and recycle the lactic acid produced by muscle cells back into glucose. All types of cells have their distinctive metabolic traits, and they cooperate extensively in the normal state, as well as in response to stress and starvation. One might think that the whole system would need to be so finely balanced that any minor upset, such as a temporary change in dietary intake, would be disastrous.
+
+In fact, the metabolic balance of a cell is amazingly stable. Whenever the balance is perturbed, the cell reacts so as to restore the initial state. The cell can adapt and continue to function during starvation or disease. Mutations of many kinds can damage or even eliminate particular reaction pathways, and yet—provided that certain minimum requirements are met—the cell survives. It does so because an elaborate network of control mechanisms regulates and coordinates the rates of all of its reactions. These controls rest, ultimately, on the remarkable abilities of proteins to change their shape and their chemistry in response to changes in their immediate environment. The principles that underlie how large molecules such as proteins are built and the chemistry behind their regulation will be our next concern.
+
+Summary
+
+Glucose and other food molecules are broken down by controlled stepwise oxidation to provide chemical energy in the form of ATP and NADH. There are three main sets of reactions that act in series, the products of each being the starting material for the next: glycolysis (which occurs in the cytosol), the citric acid cycle (in the mitochondrial matrix), and oxidative phosphorylation (on the inner mitochondrial membrane). The intermediate products of glycolysis and the citric acid cycle are used both as sources of metabolic energy and to produce many of the small molecules used as the raw materials for biosynthesis. Cells store sugar molecules as glycogen in animals and starch in plants; both plants and animals also use fats extensively as a food store. These storage materials in turn serve as a major source of food for humans, along with the proteins that comprise the majority of the dry mass of most of the cells in the foods we eat.
+
+###############
+ part 37
+###############
+
+What we don’t know
+
+• Did chemiosmosis precede fermentation as the source of biological energy, or did some form of fermentation come first, as had been assumed for many years?
+
+• What is the minimum number of components required to make a living cell from scratch? How might we find out?
+
+• Are other life chemistries possible besides the single one known on Earth (and described in this chapter)? When screening for life on other planets, what type of chemical signatures should we search for?
+
+• Is the shared chemistry inside all living cells a clue for deciphering the environment on Earth where the first cells originated? For example, what might we conclude from the universally shared high K+/Na+ ratio, neutral pH, and central role of phosphates?
+
+###############
+ part 38
+###############

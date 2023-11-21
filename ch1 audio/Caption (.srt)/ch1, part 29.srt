@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:31,750
+A large number of genes in the eukaryotic genome code for proteins that regulate the activities of other genes. Most of these transcription regulators act by binding, directly or indirectly, to the regulatory DNA adjacent to the genes that are to be controlled, or by interfering with the abilities of other proteins to do so. The expanded genome of eukaryotes therefore not only specifies the hardware of the cell, but also stores the software that controls how that hardware is used (Figure 1–34).
+
+2
+00:00:31,750 --> 00:00:59,337
+Cells do not just passively receive signals; rather, they actively exchange signals with their neighbors. Thus, in a developing multicellular organism, the same control system governs each cell, but with different consequences depending on the messages exchanged. The outcome, astonishingly, is a precisely patterned array of cells in different states, each displaying a character appropriate to its position in the multicellular structure.
+
+3
+00:00:59,337 --> 00:01:03,012
+Many Eukaryotes Live as Solitary Cells
+
+4
+00:01:03,012 --> 00:01:53,562
+Many species of eukaryotic cells lead a solitary life—some as hunters (the protozoa), some as photosynthesizers (the unicellular algae), some as scavengers (the unicellular fungi, or yeasts). Figure 1–35 conveys something of the astonishing variety of the single-celled eukaryotes. The anatomy of protozoa, especially, is often elaborate and includes such structures as sensory bristles, photoreceptors, sinuously beating cilia, leglike appendages, mouth parts, stinging darts, and musclelike contractile bundles. Although they are single cells, protozoa can be as intricate, as versatile, and as complex in their behavior as many multicellular organisms (see Figure 1–27, Movie 1.4, and Movie 1.5).
+
+5
+00:01:53,562 --> 00:02:27,962
+In terms of their ancestry and DNA sequences, the unicellular eukaryotes are far more diverse than the multicellular animals, plants, and fungi, which arose as three comparatively late branches of the eukaryotic pedigree (see Figure 1–17). As with prokaryotes, humans have tended to neglect them because they are microscopic. Only now, with the help of genome analysis, are we beginning to understand their positions in the tree of life, and to put into context the glimpses these strange creatures can offer us of our distant evolutionary past.
+
+6
+00:02:27,962 --> 00:02:31,537
+A Yeast Serves as a Minimal Model Eukaryote
+
+7
+00:02:31,537 --> 00:02:45,575
+The molecular and genetic complexity of eukaryotes is daunting. Even more than for prokaryotes, biologists need to concentrate their limited resources on a few selected model organisms to unravel this complexity. 
+
+8
+00:02:45,575 --> 00:03:09,412
+To analyze the internal workings of the eukaryotic cell without the additional problems of multicellular development, it makes sense to use a species that is unicellular and as simple as possible. The popular choice for this role of minimal model eukaryote has been the yeast Saccharomyces cerevisiae (Figure 1–36)—the same species that is used by brewers of beer and bakers of bread.
+

@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:34,512
+These latter genes are the ones we must examine if we wish to trace family relationships between the most distantly related organisms in the tree of life. The initial studies that led to the classification of the living world into the three domains of bacteria, archaea, and eukaryotes were based chiefly on analysis of one of the rRNA components of the ribosome. Because the translation of RNA into protein is fundamental to all living cells, this component of the ribosome has been very well conserved since early in the history of life on Earth (Figure 1–18).
+
+2
+00:00:34,512 --> 00:00:39,425
+Most Bacteria and Archaea Have 1000–6,000 Genes
+
+3
+00:00:39,425 --> 00:01:05,175
+Natural selection has generally favored those prokaryotic cells that can reproduce the fastest by taking up raw materials from their environment and replicating themselves most efficiently, at the maximal rate permitted by the available food supplies. Small size implies a large ratio of surface area to volume, thereby helping to maximize the uptake of nutrients across the plasma membrane and boosting a cell’s reproductive rate.
+
+4
+00:01:05,175 --> 00:01:44,475
+Presumably for these reasons, most prokaryotic cells carry very little superfluous baggage; their genomes are small, with genes packed closely together and minimal quantities of regulatory DNA between them. The small genome size has made it easy to use modern DNA sequencing techniques to determine complete genome sequences. We now have this information for thousands of species of bacteria and archaea, as well as for hundreds of species of eukaryotes. Most bacterial and archaeal genomes contain between 106 and 107 nucleotide pairs, encoding 1000–6,000 genes.
+
+5
+00:01:44,475 --> 00:02:14,375
+A complete DNA sequence reveals both the genes an organism possesses and the genes it lacks. When we compare the three domains of the living world, we can begin to see which genes are common to all of them and must therefore have been present in the cell that was ancestral to all present-day living things, and which genes are peculiar to a single branch in the tree of life. To explain the findings, however, we need to consider a little more closely how new genes arise and genomes evolve.
+
+6
+00:02:14,375 --> 00:02:18,412
+New Genes Are Generated from Preexisting Genes
+
+7
+00:02:18,412 --> 00:02:38,412
+The raw material of evolution is the DNA sequence that already exists: there is no natural mechanism for making long stretches of new random sequence. In this sense, no gene is ever entirely new. Innovation can, however, occur in several ways (Figure 1–19):
+
+8
+00:02:38,412 --> 00:02:50,925
+1. Intragenic mutation: an existing gene can be randomly modified by changes in its DNA sequence, through various types of error that occur mainly in the process of DNA replication.
+
+9
+00:02:50,925 --> 00:03:03,925
+2. Gene duplication: an existing gene can be accidentally duplicated so as to create a pair of initially identical genes within a single cell; these two genes may then diverge in the course of evolution.
+
+10
+00:03:03,925 --> 00:03:15,737
+3. DNA segment shuffling: two or more existing genes can break and rejoin to make a hybrid gene consisting of DNA segments that originally belonged to separate genes.
+

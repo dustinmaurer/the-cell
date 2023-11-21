@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:01:30,425
+Caenorhabditis elegans (Figure 1–39) is a small, harmless relative of the eelworm that attacks crops. With a life cycle of only a few days, an ability to survive in a freezer indefinitely in a state of suspended animation, a simple body plan, and an unusual life cycle that is well suited for genetic studies (described in Chapter 21), it is an ideal model organism. C elegans develops with clockwork precision from a fertilized egg cell into an adult worm with exactly 959 body cells (plus a variable number of egg and sperm cells)—an unusual degree of regularity for an animal. We now have a minutely detailed description of the sequence of events by which this occurs, as the cells divide, move, and change their character according to strict and predictable rules. The genome of 130 million nucleotide pairs codes for about 21,000 proteins, and many mutants and other tools are available for the testing of gene functions. Although the worm has a body plan very different from our own, the conservation of biological mechanisms has been sufficient for the worm to be a model for many of the developmental and cell-biological processes that occur in the human body. Thus, for example, studies of the worm have been critical for helping us to understand the programs of cell division and cell death that determine the number of cells in the body—a topic of great importance for both developmental biology and cancer research.
+
+2
+00:01:30,425 --> 00:01:34,950
+Studies in Drosophila Provide a Key to Vertebrate Development
+
+3
+00:01:34,950 --> 00:02:33,612
+The fruit fly Drosophila melanogaster (Figure 1–40) has been used as a model genetic organism for longer than any other; in fact, the foundations of classical genetics were built to a large extent on studies of this insect. Over 80 years ago, it provided, for example, definitive proof that genes—the abstract units of hereditary information—are carried on chromosomes, concrete physical objects whose behavior had been closely followed in the eukaryotic cell with the light microscope, but whose function was at first unknown. The proof depended on one of the many features that make Drosophila peculiarly convenient for genetics—the giant chromosomes, with characteristic banded appearance, that are visible in some of its cells (Figure 1–41). Specific changes in the hereditary information, manifest in families of mutant flies, were found to correlate exactly with the loss or alteration of specific giant-chromosome bands.
+

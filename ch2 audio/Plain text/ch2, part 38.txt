@@ -1,0 +1,5 @@
+What we don’t know
+• Did chemiosmosis precede fermentation as the source of biological energy, or did some form of fermentation come first, as had been assumed for many years?
+• What is the minimum number of components required to make a living cell from scratch? How might we find out?
+• Are other life chemistries possible besides the single one known on Earth (and described in this chapter)? When screening for life on other planets, what type of chemical signatures should we search for?
+• Is the shared chemistry inside all living cells a clue for deciphering the environment on Earth where the first cells originated? For example, what might we conclude from the universally shared high K+ to N-a+ ratio, neutral pH, and central role of phosphates?
